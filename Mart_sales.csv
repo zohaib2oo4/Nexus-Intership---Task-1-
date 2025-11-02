@@ -1,0 +1,501 @@
+ExportID,InvoiceID,ExporterName,City,Port,DestinationCountry,ProductCategory,ProductSubcategory,HSCode,UnitPriceUSD,Quantity,UnitType,TotalValueUSD,ExportDate,ShipmentMode,ContainerNumber,PaymentTerm,TradeTerm,Currency
+EXP-PK-200000,INV-PK-100000,Sindh Agro Exports,Karachi,Port Qasim,China,Sports Goods,Football,9506,12.49,4754,pcs,59377.46,2023-10-13,Land,,LC (Letter of Credit),FOB,USD
+EXP-PK-200001,INV-PK-100001,Balochistan Spices Co.,Hyderabad,Port Qasim,USA,Textiles,Cotton Yarn,5205,6.07,299,bales,1814.93,2023-07-11,Sea,PK40495,LC (Letter of Credit),FOB,USD
+EXP-PK-200002,INV-PK-100002,Northern Fruits Exports,Hyderabad,Port Qasim,China,Surgical,Surgical Instruments,9031,39.64,788,sets,31236.32,2024-07-23,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200003,INV-PK-100003,Lahore Leatherworks,Multan,Multan Airport,UAE,Sports Goods,Football,9506,3.63,4332,pcs,15725.16,2024-11-20,Sea,PK22156,Cash Against Documents,FOB,USD
+EXP-PK-200004,INV-PK-100004,Lahore Leatherworks,Gwadar,Gwadar Port,Bangladesh,Agriculture,Rice (Basmati),1006,2.0,14190,kg,28380.0,2023-03-30,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200005,INV-PK-100005,Gwadar Logistics Exports,Lahore,Inland (Landi Kotal),Afghanistan,Agriculture,Rice (Basmati),1006,0.55,19401,kg,10670.55,2025-01-10,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200006,INV-PK-100006,PakTex Exporters Co.,Sialkot,Sialkot Airport,Saudi Arabia,Textiles,Bed Linen,6302,6.79,1069,pcs,7258.51,2024-04-21,Sea,PK59823,Open Account,CIF,USD
+EXP-PK-200007,INV-PK-100007,Lahore Leatherworks,Faisalabad,Inland (Faisalabad Depot),Germany,Agriculture,Mangoes (fresh),0804,0.95,3749,kg,3561.55,2024-03-05,Land,,Open Account,FOB,USD
+EXP-PK-200008,INV-PK-100008,Balochistan Spices Co.,Faisalabad,Inland (Faisalabad Depot),Afghanistan,Leather Goods,Footwear,6403,43.47,2628,pairs,114239.16,2024-05-16,Sea,PK70589,Cash Against Documents,CIF,USD
+EXP-PK-200009,INV-PK-100009,Northern Fruits Exports,Sialkot,Sialkot Airport,Germany,Tobacco,Processed Tobacco,2403,2.44,5895,kg,14383.8,2023-04-25,Sea,PK14207,Open Account,CIF,USD
+EXP-PK-200010,INV-PK-100010,Sialkot Sports Exports,Lahore,Inland (Landi Kotal),China,Chemicals,Industrial Chemicals,2815,18.67,2875,kg,53676.25,2024-10-06,Sea,PK95909,Cash Against Documents,CIF,USD
+EXP-PK-200011,INV-PK-100011,Punjab Pharma Exports,Faisalabad,Inland (Faisalabad Depot),Saudi Arabia,Leather,Finished Leather,4107,18.15,183,sheets,3321.45,2024-05-20,Land,,Open Account,CIF,USD
+EXP-PK-200012,INV-PK-100012,Balochistan Spices Co.,Hyderabad,Port Qasim,Germany,Sports Goods,Football,9506,14.77,3928,pcs,58016.56,2023-10-11,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200013,INV-PK-100013,PakTex Exporters Co.,Lahore,Inland (Landi Kotal),UAE,Carpets,Handmade Carpets,5701,139.85,2576,pcs,360253.6,2023-11-24,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200014,INV-PK-100014,Gwadar Logistics Exports,Hyderabad,Port Qasim,Bangladesh,Surgical,Surgical Instruments,9031,122.56,241,sets,29536.96,2024-05-29,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200015,INV-PK-100015,Lahore Leatherworks,Lahore,Inland (Landi Kotal),Saudi Arabia,Seafood,Shrimp (frozen),0306,8.47,3493,kg,29585.71,2023-11-20,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200016,INV-PK-100016,Northern Fruits Exports,Faisalabad,Inland (Faisalabad Depot),Afghanistan,Chemicals,Industrial Chemicals,2815,2.7,18982,kg,51251.4,2023-08-06,Land,,Open Account,FOB,USD
+EXP-PK-200017,INV-PK-100017,Karachi Seafood Ltd.,Gwadar,Gwadar Port,UAE,Pharmaceuticals,Medicines (packaged),3004,24.18,4043,boxes,97759.74,2023-01-02,Land,,Open Account,CIF,USD
+EXP-PK-200018,INV-PK-100018,PakTex Exporters Co.,Lahore,Inland (Landi Kotal),Germany,Chemicals,Industrial Chemicals,2815,9.69,2043,kg,19796.67,2024-09-21,Sea,PK17592,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200019,INV-PK-100019,Sindh Agro Exports,Peshawar,Torkham Border (land),UK,Industrial,Gloves (leather),4203,14.0,2206,pairs,30884.0,2023-09-15,Sea,PK96474,Cash Against Documents,FOB,USD
+EXP-PK-200020,INV-PK-100020,Sialkot Sports Exports,Hyderabad,Port Qasim,China,Chemicals,Industrial Chemicals,2815,4.36,9954,kg,43399.44,2024-02-16,Land,,Open Account,CIF,USD
+EXP-PK-200021,INV-PK-100021,Lahore Leatherworks,Peshawar,Torkham Border (land),Afghanistan,Surgical,Surgical Instruments,9031,16.53,4547,sets,75161.91,2023-09-05,Air,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200022,INV-PK-100022,Lahore Leatherworks,Karachi,Karachi Port,Bangladesh,Sports Goods,Football,9506,9.25,3315,pcs,30663.75,2023-01-15,Sea,PK92719,LC (Letter of Credit),FOB,USD
+EXP-PK-200023,INV-PK-100023,Sindh Agro Exports,Karachi,Port Qasim,UK,Pharmaceuticals,Medicines (packaged),3004,8.48,2605,boxes,22090.4,2024-05-02,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200024,INV-PK-100024,Northern Fruits Exports,Faisalabad,Inland (Faisalabad Depot),Bangladesh,Spices,Chilies (dried),0904,3.73,3778,kg,14091.94,2025-08-26,Sea,PK71993,Cash Against Documents,FOB,USD
+EXP-PK-200025,INV-PK-100025,Sindh Agro Exports,Lahore,Inland (Landi Kotal),Netherlands,Agriculture,Mangoes (fresh),0804,2.92,15525,kg,45333.0,2025-05-17,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200026,INV-PK-100026,Sindh Agro Exports,Karachi,Port Qasim,Germany,Industrial,Gloves (leather),4203,18.85,4475,pairs,84353.75,2023-08-12,Sea,PK35112,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200027,INV-PK-100027,Karachi Seafood Ltd.,Hyderabad,Port Qasim,UAE,Agriculture,Rice (Basmati),1006,1.99,18445,kg,36705.55,2025-08-05,Sea,PK19880,Cash Against Documents,FOB,USD
+EXP-PK-200028,INV-PK-100028,PakTex Exporters Co.,Karachi,Karachi Port,China,Leather,Finished Leather,4107,8.98,98,sheets,880.04,2025-04-12,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200029,INV-PK-100029,Gwadar Logistics Exports,Karachi,Karachi Port,Netherlands,Textiles,Cotton Yarn,5205,1.13,163,bales,184.19,2025-03-10,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200030,INV-PK-100030,Gwadar Logistics Exports,Peshawar,Torkham Border (land),UAE,Sports Goods,Football,9506,12.88,1364,pcs,17568.32,2024-08-30,Sea,PK17665,LC (Letter of Credit),CIF,USD
+EXP-PK-200031,INV-PK-100031,PakTex Exporters Co.,Karachi,Port Qasim,Afghanistan,Chemicals,Industrial Chemicals,2815,25.0,7199,kg,179975.0,2023-11-19,Sea,PK76562,LC (Letter of Credit),FOB,USD
+EXP-PK-200032,INV-PK-100032,Sindh Agro Exports,Lahore,Inland (Landi Kotal),China,Seafood,Shrimp (frozen),0306,5.53,10899,kg,60271.47,2023-09-03,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200033,INV-PK-100033,Balochistan Spices Co.,Lahore,Inland (Landi Kotal),Netherlands,Carpets,Handmade Carpets,5701,113.42,4012,pcs,455041.04,2024-10-09,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200034,INV-PK-100034,Faisalabad Textiles,Multan,Multan Airport,Netherlands,Leather,Finished Leather,4107,8.35,493,sheets,4116.55,2024-09-06,Air,,Open Account,FOB,USD
+EXP-PK-200035,INV-PK-100035,PakTex Exporters Co.,Peshawar,Torkham Border (land),Bangladesh,Spices,Chilies (dried),0904,4.86,4054,kg,19702.44,2023-07-24,Sea,PK80468,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200036,INV-PK-100036,Karachi Seafood Ltd.,Gwadar,Gwadar Port,UK,Chemicals,Industrial Chemicals,2815,0.96,16327,kg,15673.92,2024-05-15,Air,,Open Account,FOB,USD
+EXP-PK-200037,INV-PK-100037,Punjab Pharma Exports,Multan,Multan Airport,Bangladesh,Industrial,Gloves (leather),4203,14.43,3647,pairs,52626.21,2023-01-17,Land,,Open Account,FOB,USD
+EXP-PK-200038,INV-PK-100038,Karachi Seafood Ltd.,Multan,Multan Airport,UK,Chemicals,Industrial Chemicals,2815,23.32,1573,kg,36682.36,2023-08-08,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200039,INV-PK-100039,Sialkot Sports Exports,Sialkot,Sialkot Airport,Germany,Sports Goods,Football,9506,12.04,588,pcs,7079.52,2024-06-24,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200040,INV-PK-100040,PakTex Exporters Co.,Lahore,Inland (Landi Kotal),Netherlands,Tobacco,Processed Tobacco,2403,4.38,12503,kg,54763.14,2024-07-20,Sea,PK10464,Open Account,FOB,USD
+EXP-PK-200041,INV-PK-100041,Sialkot Sports Exports,Faisalabad,Inland (Faisalabad Depot),Italy,Pharmaceuticals,Medicines (packaged),3004,8.94,327,boxes,2923.38,2025-05-25,Land,,LC (Letter of Credit),FOB,USD
+EXP-PK-200042,INV-PK-100042,Sindh Agro Exports,Faisalabad,Inland (Faisalabad Depot),Afghanistan,Textiles,Cotton Yarn,5205,3.04,163,bales,495.52,2025-01-26,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200043,INV-PK-100043,Karachi Seafood Ltd.,Karachi,Port Qasim,Germany,Chemicals,Industrial Chemicals,2815,22.1,12787,kg,282592.7,2023-03-23,Air,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200044,INV-PK-100044,Sindh Agro Exports,Gwadar,Gwadar Port,Afghanistan,Chemicals,Industrial Chemicals,2815,26.71,9497,kg,253664.87,2025-04-12,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200045,INV-PK-100045,Karachi Seafood Ltd.,Faisalabad,Inland (Faisalabad Depot),Netherlands,Textiles,Cotton Yarn,5205,1.66,356,bales,590.96,2024-01-03,Land,,Open Account,CIF,USD
+EXP-PK-200046,INV-PK-100046,Faisalabad Textiles,Multan,Multan Airport,UAE,Industrial,Gloves (leather),4203,15.45,2810,pairs,43414.5,2023-08-10,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200047,INV-PK-100047,Faisalabad Textiles,Sialkot,Sialkot Airport,Italy,Agriculture,Mangoes (fresh),0804,2.43,9926,kg,24120.18,2024-09-17,Sea,PK39219,LC (Letter of Credit),FOB,USD
+EXP-PK-200048,INV-PK-100048,Gwadar Logistics Exports,Gwadar,Gwadar Port,Saudi Arabia,Tobacco,Processed Tobacco,2403,2.85,8608,kg,24532.8,2023-05-23,Air,,Open Account,CIF,USD
+EXP-PK-200049,INV-PK-100049,Northern Fruits Exports,Gwadar,Gwadar Port,USA,Textiles,Bed Linen,6302,0.98,548,pcs,537.04,2024-06-18,Sea,PK86099,Open Account,FOB,USD
+EXP-PK-200050,INV-PK-100050,Sindh Agro Exports,Hyderabad,Port Qasim,Germany,Leather Goods,Footwear,6403,13.46,3185,pairs,42870.1,2024-10-04,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200051,INV-PK-100051,Balochistan Spices Co.,Sialkot,Sialkot Airport,Saudi Arabia,Textiles,Cotton Yarn,5205,3.06,254,bales,777.24,2025-06-12,Sea,PK78146,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200052,INV-PK-100052,Gwadar Logistics Exports,Lahore,Inland (Landi Kotal),Germany,Spices,Chilies (dried),0904,5.54,5060,kg,28032.4,2024-10-04,Land,,LC (Letter of Credit),CIF,USD
+EXP-PK-200053,INV-PK-100053,Northern Fruits Exports,Multan,Multan Airport,Netherlands,Agriculture,Mangoes (fresh),0804,1.53,15135,kg,23156.55,2025-04-04,Land,,Open Account,FOB,USD
+EXP-PK-200054,INV-PK-100054,Faisalabad Textiles,Hyderabad,Port Qasim,Netherlands,Carpets,Handmade Carpets,5701,152.96,394,pcs,60266.24,2023-12-23,Land,,Open Account,CIF,USD
+EXP-PK-200055,INV-PK-100055,Northern Fruits Exports,Karachi,Port Qasim,Saudi Arabia,Sports Goods,Football,9506,10.11,814,pcs,8229.54,2025-05-30,Land,,Open Account,CIF,USD
+EXP-PK-200056,INV-PK-100056,Punjab Pharma Exports,Peshawar,Torkham Border (land),China,Pharmaceuticals,Medicines (packaged),3004,23.31,4042,boxes,94219.02,2025-08-27,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200057,INV-PK-100057,Sialkot Sports Exports,Gwadar,Gwadar Port,UK,Tobacco,Processed Tobacco,2403,3.35,17442,kg,58430.7,2024-04-26,Land,,Open Account,FOB,USD
+EXP-PK-200058,INV-PK-100058,Faisalabad Textiles,Faisalabad,Inland (Faisalabad Depot),USA,Textiles,Cotton Yarn,5205,6.59,94,bales,619.46,2024-05-16,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200059,INV-PK-100059,Gwadar Logistics Exports,Sialkot,Sialkot Airport,Netherlands,Surgical,Surgical Instruments,9031,179.59,2701,sets,485072.59,2025-03-29,Air,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200060,INV-PK-100060,Sindh Agro Exports,Hyderabad,Port Qasim,China,Leather,Finished Leather,4107,41.33,448,sheets,18515.84,2025-08-09,Sea,PK83060,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200061,INV-PK-100061,Punjab Pharma Exports,Faisalabad,Inland (Faisalabad Depot),Italy,Carpets,Handmade Carpets,5701,193.1,559,pcs,107942.9,2024-10-11,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200062,INV-PK-100062,Karachi Seafood Ltd.,Peshawar,Torkham Border (land),Italy,Agriculture,Rice (Basmati),1006,1.07,8599,kg,9200.93,2024-05-21,Land,,Open Account,CIF,USD
+EXP-PK-200063,INV-PK-100063,Faisalabad Textiles,Multan,Multan Airport,Italy,Textiles,Bed Linen,6302,6.69,4305,pcs,28800.45,2024-08-08,Sea,PK45614,Open Account,CIF,USD
+EXP-PK-200064,INV-PK-100064,Northern Fruits Exports,Lahore,Inland (Landi Kotal),UAE,Leather,Finished Leather,4107,5.31,255,sheets,1354.05,2024-04-18,Air,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200065,INV-PK-100065,Sindh Agro Exports,Hyderabad,Port Qasim,Netherlands,Agriculture,Mangoes (fresh),0804,1.54,4519,kg,6959.26,2025-08-12,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200066,INV-PK-100066,Gwadar Logistics Exports,Hyderabad,Port Qasim,Bangladesh,Leather Goods,Footwear,6403,23.19,1694,pairs,39283.86,2023-02-10,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200067,INV-PK-100067,PakTex Exporters Co.,Gwadar,Gwadar Port,Saudi Arabia,Industrial,Gloves (leather),4203,18.92,1622,pairs,30688.24,2025-03-09,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200068,INV-PK-100068,Faisalabad Textiles,Multan,Multan Airport,Netherlands,Surgical,Surgical Instruments,9031,108.57,3518,sets,381949.26,2023-03-01,Sea,PK54057,Cash Against Documents,FOB,USD
+EXP-PK-200069,INV-PK-100069,Punjab Pharma Exports,Faisalabad,Inland (Faisalabad Depot),Bangladesh,Pharmaceuticals,Medicines (packaged),3004,9.73,4859,boxes,47278.07,2023-02-25,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200070,INV-PK-100070,Gwadar Logistics Exports,Faisalabad,Inland (Faisalabad Depot),Italy,Leather,Finished Leather,4107,48.31,126,sheets,6087.06,2023-04-13,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200071,INV-PK-100071,Faisalabad Textiles,Peshawar,Torkham Border (land),Germany,Agriculture,Mangoes (fresh),0804,1.74,6087,kg,10591.38,2025-02-15,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200072,INV-PK-100072,Sindh Agro Exports,Peshawar,Torkham Border (land),USA,Leather Goods,Footwear,6403,41.33,194,pairs,8018.02,2023-04-17,Air,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200073,INV-PK-100073,PakTex Exporters Co.,Karachi,Karachi Port,China,Tobacco,Processed Tobacco,2403,3.24,10103,kg,32733.72,2023-02-11,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200074,INV-PK-100074,Karachi Seafood Ltd.,Peshawar,Torkham Border (land),UK,Spices,Chilies (dried),0904,1.26,5645,kg,7112.7,2024-03-22,Air,,Open Account,CIF,USD
+EXP-PK-200075,INV-PK-100075,Karachi Seafood Ltd.,Lahore,Inland (Landi Kotal),UAE,Agriculture,Rice (Basmati),1006,2.77,4867,kg,13481.59,2023-08-10,Land,,LC (Letter of Credit),CIF,USD
+EXP-PK-200076,INV-PK-100076,Balochistan Spices Co.,Hyderabad,Port Qasim,Netherlands,Leather Goods,Footwear,6403,25.94,2452,pairs,63604.88,2024-02-11,Sea,PK87607,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200077,INV-PK-100077,Sialkot Sports Exports,Lahore,Inland (Landi Kotal),Bangladesh,Industrial,Gloves (leather),4203,19.73,1217,pairs,24011.41,2023-03-26,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200078,INV-PK-100078,Sindh Agro Exports,Gwadar,Gwadar Port,USA,Tobacco,Processed Tobacco,2403,3.52,15256,kg,53701.12,2025-05-10,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200079,INV-PK-100079,Lahore Leatherworks,Peshawar,Torkham Border (land),UAE,Seafood,Shrimp (frozen),0306,5.14,14591,kg,74997.74,2023-12-27,Land,,Open Account,CIF,USD
+EXP-PK-200080,INV-PK-100080,Punjab Pharma Exports,Hyderabad,Port Qasim,Bangladesh,Agriculture,Rice (Basmati),1006,1.42,12682,kg,18008.44,2024-10-22,Sea,PK21359,Open Account,CIF,USD
+EXP-PK-200081,INV-PK-100081,Faisalabad Textiles,Peshawar,Torkham Border (land),Bangladesh,Spices,Chilies (dried),0904,4.17,10761,kg,44873.37,2025-02-15,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200082,INV-PK-100082,Lahore Leatherworks,Faisalabad,Inland (Faisalabad Depot),Italy,Sports Goods,Football,9506,4.53,4178,pcs,18926.34,2024-12-27,Air,,Open Account,CIF,USD
+EXP-PK-200083,INV-PK-100083,Balochistan Spices Co.,Multan,Multan Airport,Afghanistan,Textiles,Cotton Yarn,5205,3.11,94,bales,292.34,2024-01-27,Sea,PK41635,Cash Against Documents,CIF,USD
+EXP-PK-200084,INV-PK-100084,Northern Fruits Exports,Sialkot,Sialkot Airport,Italy,Carpets,Handmade Carpets,5701,68.35,2958,pcs,202179.3,2025-10-02,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200085,INV-PK-100085,Sialkot Sports Exports,Sialkot,Sialkot Airport,Netherlands,Leather Goods,Footwear,6403,84.53,92,pairs,7776.76,2024-05-13,Air,,Open Account,CIF,USD
+EXP-PK-200086,INV-PK-100086,Northern Fruits Exports,Gwadar,Gwadar Port,Netherlands,Leather Goods,Footwear,6403,66.33,1140,pairs,75616.2,2024-11-08,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200087,INV-PK-100087,Sialkot Sports Exports,Multan,Multan Airport,China,Textiles,Bed Linen,6302,5.45,880,pcs,4796.0,2024-01-30,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200088,INV-PK-100088,Faisalabad Textiles,Sialkot,Sialkot Airport,Italy,Agriculture,Rice (Basmati),1006,2.23,7796,kg,17385.08,2024-08-02,Sea,PK35443,Open Account,FOB,USD
+EXP-PK-200089,INV-PK-100089,Lahore Leatherworks,Faisalabad,Inland (Faisalabad Depot),Saudi Arabia,Textiles,Cotton Yarn,5205,7.54,69,bales,520.26,2023-09-17,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200090,INV-PK-100090,Northern Fruits Exports,Multan,Multan Airport,UAE,Carpets,Handmade Carpets,5701,203.48,576,pcs,117204.48,2025-10-02,Sea,PK11607,Open Account,CIF,USD
+EXP-PK-200091,INV-PK-100091,Punjab Pharma Exports,Peshawar,Torkham Border (land),Germany,Leather,Finished Leather,4107,46.61,438,sheets,20415.18,2023-04-16,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200092,INV-PK-100092,Sindh Agro Exports,Hyderabad,Port Qasim,Italy,Textiles,Bed Linen,6302,2.66,3303,pcs,8785.98,2023-04-20,Sea,PK29555,Open Account,FOB,USD
+EXP-PK-200093,INV-PK-100093,Faisalabad Textiles,Lahore,Inland (Landi Kotal),Afghanistan,Industrial,Gloves (leather),4203,16.53,2780,pairs,45953.4,2025-05-02,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200094,INV-PK-100094,Punjab Pharma Exports,Peshawar,Torkham Border (land),Saudi Arabia,Tobacco,Processed Tobacco,2403,2.88,4912,kg,14146.56,2025-05-28,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200095,INV-PK-100095,Faisalabad Textiles,Sialkot,Sialkot Airport,Saudi Arabia,Carpets,Handmade Carpets,5701,91.9,4487,pcs,412355.3,2023-06-16,Sea,PK41439,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200096,INV-PK-100096,Karachi Seafood Ltd.,Karachi,Port Qasim,Italy,Leather Goods,Footwear,6403,109.05,3169,pairs,345579.45,2025-08-20,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200097,INV-PK-100097,Sialkot Sports Exports,Multan,Multan Airport,Italy,Textiles,Bed Linen,6302,3.24,1752,pcs,5676.48,2024-04-23,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200098,INV-PK-100098,Sindh Agro Exports,Sialkot,Sialkot Airport,UAE,Chemicals,Industrial Chemicals,2815,22.0,17952,kg,394944.0,2024-06-28,Sea,PK19359,LC (Letter of Credit),FOB,USD
+EXP-PK-200099,INV-PK-100099,Sialkot Sports Exports,Multan,Multan Airport,Italy,Textiles,Bed Linen,6302,7.19,3901,pcs,28048.19,2025-08-17,Land,,Open Account,CIF,USD
+EXP-PK-200100,INV-PK-100100,Sialkot Sports Exports,Peshawar,Torkham Border (land),Italy,Textiles,Bed Linen,6302,5.42,429,pcs,2325.18,2023-03-23,Air,,Open Account,CIF,USD
+EXP-PK-200101,INV-PK-100101,PakTex Exporters Co.,Lahore,Inland (Landi Kotal),China,Carpets,Handmade Carpets,5701,122.73,4493,pcs,551425.89,2023-02-12,Land,,Open Account,FOB,USD
+EXP-PK-200102,INV-PK-100102,Karachi Seafood Ltd.,Peshawar,Torkham Border (land),Afghanistan,Carpets,Handmade Carpets,5701,322.89,55,pcs,17758.95,2025-06-24,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200103,INV-PK-100103,Punjab Pharma Exports,Lahore,Inland (Landi Kotal),Italy,Agriculture,Mangoes (fresh),0804,0.75,13303,kg,9977.25,2025-04-16,Air,,Open Account,FOB,USD
+EXP-PK-200104,INV-PK-100104,Karachi Seafood Ltd.,Gwadar,Gwadar Port,Netherlands,Leather Goods,Footwear,6403,10.56,812,pairs,8574.72,2025-10-11,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200105,INV-PK-100105,Punjab Pharma Exports,Lahore,Inland (Landi Kotal),Germany,Agriculture,Rice (Basmati),1006,1.87,13868,kg,25933.16,2024-10-24,Sea,PK62976,LC (Letter of Credit),CIF,USD
+EXP-PK-200106,INV-PK-100106,Gwadar Logistics Exports,Karachi,Karachi Port,Afghanistan,Agriculture,Mangoes (fresh),0804,2.13,4562,kg,9717.06,2025-10-17,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200107,INV-PK-100107,Faisalabad Textiles,Multan,Multan Airport,Afghanistan,Leather,Finished Leather,4107,37.05,119,sheets,4408.95,2024-08-12,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200108,INV-PK-100108,PakTex Exporters Co.,Sialkot,Sialkot Airport,UAE,Agriculture,Rice (Basmati),1006,1.31,14955,kg,19591.05,2023-01-29,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200109,INV-PK-100109,Faisalabad Textiles,Lahore,Inland (Landi Kotal),Italy,Textiles,Bed Linen,6302,5.48,4247,pcs,23273.56,2023-11-12,Air,,Open Account,CIF,USD
+EXP-PK-200110,INV-PK-100110,Gwadar Logistics Exports,Peshawar,Torkham Border (land),Italy,Sports Goods,Football,9506,20.41,2845,pcs,58066.45,2025-07-24,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200111,INV-PK-100111,Faisalabad Textiles,Faisalabad,Inland (Faisalabad Depot),UK,Agriculture,Rice (Basmati),1006,0.73,7417,kg,5414.41,2025-04-29,Air,,Open Account,FOB,USD
+EXP-PK-200112,INV-PK-100112,Sialkot Sports Exports,Multan,Multan Airport,Bangladesh,Spices,Chilies (dried),0904,2.33,4955,kg,11545.15,2025-09-29,Sea,PK68529,Cash Against Documents,CIF,USD
+EXP-PK-200113,INV-PK-100113,Lahore Leatherworks,Hyderabad,Port Qasim,Italy,Chemicals,Industrial Chemicals,2815,29.21,7922,kg,231401.62,2024-10-21,Sea,PK41300,Cash Against Documents,FOB,USD
+EXP-PK-200114,INV-PK-100114,Gwadar Logistics Exports,Karachi,Port Qasim,Italy,Leather Goods,Footwear,6403,108.13,3159,pairs,341582.67,2025-02-19,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200115,INV-PK-100115,PakTex Exporters Co.,Faisalabad,Inland (Faisalabad Depot),Afghanistan,Spices,Chilies (dried),0904,4.97,10102,kg,50206.94,2024-11-10,Sea,PK67711,LC (Letter of Credit),CIF,USD
+EXP-PK-200116,INV-PK-100116,PakTex Exporters Co.,Faisalabad,Inland (Faisalabad Depot),Netherlands,Tobacco,Processed Tobacco,2403,3.1,9901,kg,30693.1,2023-11-13,Sea,PK71537,Open Account,CIF,USD
+EXP-PK-200117,INV-PK-100117,Balochistan Spices Co.,Hyderabad,Port Qasim,UK,Tobacco,Processed Tobacco,2403,1.38,14476,kg,19976.88,2024-11-03,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200118,INV-PK-100118,Punjab Pharma Exports,Karachi,Karachi Port,China,Carpets,Handmade Carpets,5701,176.35,131,pcs,23101.85,2024-08-11,Sea,PK21846,Cash Against Documents,FOB,USD
+EXP-PK-200119,INV-PK-100119,Sindh Agro Exports,Peshawar,Torkham Border (land),UAE,Leather Goods,Footwear,6403,81.0,893,pairs,72333.0,2024-09-05,Sea,PK16028,Open Account,FOB,USD
+EXP-PK-200120,INV-PK-100120,Sialkot Sports Exports,Gwadar,Gwadar Port,Germany,Seafood,Shrimp (frozen),0306,11.46,19083,kg,218691.18,2023-10-26,Sea,PK79621,Cash Against Documents,FOB,USD
+EXP-PK-200121,INV-PK-100121,Karachi Seafood Ltd.,Faisalabad,Inland (Faisalabad Depot),UK,Spices,Chilies (dried),0904,5.57,7466,kg,41585.62,2025-02-22,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200122,INV-PK-100122,Balochistan Spices Co.,Faisalabad,Inland (Faisalabad Depot),China,Surgical,Surgical Instruments,9031,12.94,4642,sets,60067.48,2024-06-04,Sea,PK43466,LC (Letter of Credit),CIF,USD
+EXP-PK-200123,INV-PK-100123,Sialkot Sports Exports,Faisalabad,Inland (Faisalabad Depot),UK,Surgical,Surgical Instruments,9031,91.35,4833,sets,441494.55,2024-12-08,Sea,PK93746,Cash Against Documents,CIF,USD
+EXP-PK-200124,INV-PK-100124,Punjab Pharma Exports,Multan,Multan Airport,China,Seafood,Shrimp (frozen),0306,11.67,17074,kg,199253.58,2025-09-16,Sea,PK41091,Cash Against Documents,CIF,USD
+EXP-PK-200125,INV-PK-100125,Balochistan Spices Co.,Multan,Multan Airport,Saudi Arabia,Textiles,Cotton Yarn,5205,2.92,193,bales,563.56,2025-03-21,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200126,INV-PK-100126,Balochistan Spices Co.,Peshawar,Torkham Border (land),Saudi Arabia,Industrial,Gloves (leather),4203,17.17,1591,pairs,27317.47,2024-04-16,Land,,Open Account,FOB,USD
+EXP-PK-200127,INV-PK-100127,Faisalabad Textiles,Multan,Multan Airport,UAE,Carpets,Handmade Carpets,5701,126.27,2788,pcs,352040.76,2023-07-18,Land,,LC (Letter of Credit),CIF,USD
+EXP-PK-200128,INV-PK-100128,Punjab Pharma Exports,Karachi,Port Qasim,UAE,Textiles,Bed Linen,6302,7.54,3483,pcs,26261.82,2024-08-27,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200129,INV-PK-100129,Faisalabad Textiles,Faisalabad,Inland (Faisalabad Depot),Afghanistan,Chemicals,Industrial Chemicals,2815,17.45,2033,kg,35475.85,2025-01-19,Land,,Open Account,FOB,USD
+EXP-PK-200130,INV-PK-100130,Sialkot Sports Exports,Peshawar,Torkham Border (land),Saudi Arabia,Leather Goods,Footwear,6403,77.65,4950,pairs,384367.5,2024-11-24,Sea,PK71385,LC (Letter of Credit),FOB,USD
+EXP-PK-200131,INV-PK-100131,Faisalabad Textiles,Hyderabad,Port Qasim,Afghanistan,Agriculture,Mangoes (fresh),0804,0.85,10414,kg,8851.9,2023-07-04,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200132,INV-PK-100132,Northern Fruits Exports,Lahore,Inland (Landi Kotal),Italy,Agriculture,Mangoes (fresh),0804,2.69,14841,kg,39922.29,2024-06-20,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200133,INV-PK-100133,Sindh Agro Exports,Sialkot,Sialkot Airport,Italy,Textiles,Cotton Yarn,5205,5.82,351,bales,2042.82,2024-11-02,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200134,INV-PK-100134,Punjab Pharma Exports,Multan,Multan Airport,Netherlands,Textiles,Bed Linen,6302,3.39,1475,pcs,5000.25,2023-10-14,Sea,PK14877,Open Account,CIF,USD
+EXP-PK-200135,INV-PK-100135,Sindh Agro Exports,Lahore,Inland (Landi Kotal),China,Chemicals,Industrial Chemicals,2815,24.43,16221,kg,396279.03,2023-10-05,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200136,INV-PK-100136,Northern Fruits Exports,Hyderabad,Port Qasim,Bangladesh,Leather Goods,Footwear,6403,105.38,4567,pairs,481270.46,2023-11-13,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200137,INV-PK-100137,Balochistan Spices Co.,Hyderabad,Port Qasim,Saudi Arabia,Textiles,Cotton Yarn,5205,4.48,251,bales,1124.48,2025-01-28,Sea,PK68115,Cash Against Documents,FOB,USD
+EXP-PK-200138,INV-PK-100138,Lahore Leatherworks,Lahore,Inland (Landi Kotal),Germany,Pharmaceuticals,Medicines (packaged),3004,20.16,3253,boxes,65580.48,2025-01-04,Sea,PK62184,Open Account,FOB,USD
+EXP-PK-200139,INV-PK-100139,Sindh Agro Exports,Peshawar,Torkham Border (land),UK,Carpets,Handmade Carpets,5701,365.89,3981,pcs,1456608.09,2024-03-10,Land,,LC (Letter of Credit),FOB,USD
+EXP-PK-200140,INV-PK-100140,Lahore Leatherworks,Sialkot,Sialkot Airport,UAE,Industrial,Gloves (leather),4203,17.91,1696,pairs,30375.36,2024-02-25,Sea,PK82641,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200141,INV-PK-100141,Faisalabad Textiles,Gwadar,Gwadar Port,UAE,Industrial,Gloves (leather),4203,8.14,478,pairs,3890.92,2023-01-06,Air,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200142,INV-PK-100142,Northern Fruits Exports,Multan,Multan Airport,UAE,Textiles,Bed Linen,6302,4.96,189,pcs,937.44,2023-02-22,Sea,PK11947,Open Account,FOB,USD
+EXP-PK-200143,INV-PK-100143,Balochistan Spices Co.,Gwadar,Gwadar Port,USA,Leather,Finished Leather,4107,25.95,271,sheets,7032.45,2024-06-27,Sea,PK26614,Cash Against Documents,FOB,USD
+EXP-PK-200144,INV-PK-100144,Sindh Agro Exports,Peshawar,Torkham Border (land),Italy,Industrial,Gloves (leather),4203,6.44,2958,pairs,19049.52,2025-01-11,Land,,LC (Letter of Credit),CIF,USD
+EXP-PK-200145,INV-PK-100145,Northern Fruits Exports,Sialkot,Sialkot Airport,Bangladesh,Textiles,Cotton Yarn,5205,1.02,19,bales,19.38,2024-09-09,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200146,INV-PK-100146,Punjab Pharma Exports,Hyderabad,Port Qasim,Netherlands,Carpets,Handmade Carpets,5701,420.17,1807,pcs,759247.19,2023-08-10,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200147,INV-PK-100147,Sindh Agro Exports,Gwadar,Gwadar Port,Bangladesh,Leather,Finished Leather,4107,10.72,261,sheets,2797.92,2023-05-15,Sea,PK46046,Open Account,CIF,USD
+EXP-PK-200148,INV-PK-100148,Balochistan Spices Co.,Multan,Multan Airport,Italy,Pharmaceuticals,Medicines (packaged),3004,19.48,1086,boxes,21155.28,2025-05-31,Sea,PK24996,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200149,INV-PK-100149,Punjab Pharma Exports,Sialkot,Sialkot Airport,Netherlands,Agriculture,Mangoes (fresh),0804,2.06,1798,kg,3703.88,2025-07-17,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200150,INV-PK-100150,Lahore Leatherworks,Hyderabad,Port Qasim,Germany,Carpets,Handmade Carpets,5701,73.26,2661,pcs,194944.86,2024-06-06,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200151,INV-PK-100151,Sindh Agro Exports,Lahore,Inland (Landi Kotal),UK,Textiles,Bed Linen,6302,4.69,3190,pcs,14961.1,2025-06-03,Sea,PK58843,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200152,INV-PK-100152,Balochistan Spices Co.,Gwadar,Gwadar Port,UK,Seafood,Shrimp (frozen),0306,9.53,19519,kg,186016.07,2024-12-25,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200153,INV-PK-100153,Sialkot Sports Exports,Multan,Multan Airport,Germany,Textiles,Bed Linen,6302,4.52,1621,pcs,7326.92,2024-03-11,Sea,PK96079,Cash Against Documents,FOB,USD
+EXP-PK-200154,INV-PK-100154,Sindh Agro Exports,Gwadar,Gwadar Port,Afghanistan,Agriculture,Mangoes (fresh),0804,2.49,5489,kg,13667.61,2023-08-24,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200155,INV-PK-100155,Northern Fruits Exports,Karachi,Port Qasim,USA,Leather,Finished Leather,4107,24.75,40,sheets,990.0,2024-07-13,Land,,Open Account,CIF,USD
+EXP-PK-200156,INV-PK-100156,Lahore Leatherworks,Karachi,Karachi Port,UAE,Spices,Chilies (dried),0904,1.13,19256,kg,21759.28,2025-03-31,Sea,PK28595,LC (Letter of Credit),FOB,USD
+EXP-PK-200157,INV-PK-100157,Northern Fruits Exports,Sialkot,Sialkot Airport,Netherlands,Seafood,Shrimp (frozen),0306,10.52,13949,kg,146743.48,2025-07-18,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200158,INV-PK-100158,Sialkot Sports Exports,Gwadar,Gwadar Port,Bangladesh,Spices,Chilies (dried),0904,3.04,3548,kg,10785.92,2023-06-23,Sea,PK30392,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200159,INV-PK-100159,Sindh Agro Exports,Multan,Multan Airport,Italy,Carpets,Handmade Carpets,5701,120.4,1258,pcs,151463.2,2025-05-18,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200160,INV-PK-100160,Sialkot Sports Exports,Sialkot,Sialkot Airport,Afghanistan,Textiles,Bed Linen,6302,4.75,3575,pcs,16981.25,2024-12-07,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200161,INV-PK-100161,Balochistan Spices Co.,Peshawar,Torkham Border (land),Afghanistan,Carpets,Handmade Carpets,5701,347.09,1406,pcs,488008.54,2024-09-23,Sea,PK38903,Cash Against Documents,FOB,USD
+EXP-PK-200162,INV-PK-100162,PakTex Exporters Co.,Sialkot,Sialkot Airport,Saudi Arabia,Sports Goods,Football,9506,28.74,3692,pcs,106108.08,2023-10-09,Air,,Open Account,CIF,USD
+EXP-PK-200163,INV-PK-100163,Sindh Agro Exports,Karachi,Port Qasim,Netherlands,Leather,Finished Leather,4107,29.95,306,sheets,9164.7,2023-09-22,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200164,INV-PK-100164,Sindh Agro Exports,Hyderabad,Port Qasim,USA,Seafood,Shrimp (frozen),0306,6.78,5029,kg,34096.62,2023-02-08,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200165,INV-PK-100165,Balochistan Spices Co.,Hyderabad,Port Qasim,Bangladesh,Seafood,Shrimp (frozen),0306,6.2,15181,kg,94122.2,2025-05-05,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200166,INV-PK-100166,PakTex Exporters Co.,Gwadar,Gwadar Port,UAE,Industrial,Gloves (leather),4203,1.27,589,pairs,748.03,2025-07-31,Land,,Open Account,FOB,USD
+EXP-PK-200167,INV-PK-100167,Gwadar Logistics Exports,Lahore,Inland (Landi Kotal),China,Seafood,Shrimp (frozen),0306,3.41,910,kg,3103.1,2025-03-31,Land,,LC (Letter of Credit),CIF,USD
+EXP-PK-200168,INV-PK-100168,Sialkot Sports Exports,Gwadar,Gwadar Port,China,Agriculture,Mangoes (fresh),0804,2.64,14102,kg,37229.28,2023-12-11,Sea,PK76910,LC (Letter of Credit),FOB,USD
+EXP-PK-200169,INV-PK-100169,Lahore Leatherworks,Gwadar,Gwadar Port,UAE,Sports Goods,Football,9506,15.28,498,pcs,7609.44,2023-07-30,Sea,PK43550,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200170,INV-PK-100170,Balochistan Spices Co.,Faisalabad,Inland (Faisalabad Depot),UK,Leather,Finished Leather,4107,27.12,237,sheets,6427.44,2025-10-08,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200171,INV-PK-100171,Lahore Leatherworks,Faisalabad,Inland (Faisalabad Depot),Italy,Textiles,Bed Linen,6302,2.05,2174,pcs,4456.7,2025-08-18,Air,,Open Account,CIF,USD
+EXP-PK-200172,INV-PK-100172,Balochistan Spices Co.,Karachi,Port Qasim,Afghanistan,Textiles,Bed Linen,6302,3.67,3083,pcs,11314.61,2024-09-27,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200173,INV-PK-100173,PakTex Exporters Co.,Gwadar,Gwadar Port,Saudi Arabia,Textiles,Bed Linen,6302,5.37,236,pcs,1267.32,2023-07-04,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200174,INV-PK-100174,Balochistan Spices Co.,Karachi,Port Qasim,Bangladesh,Carpets,Handmade Carpets,5701,218.58,3133,pcs,684811.14,2024-01-21,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200175,INV-PK-100175,PakTex Exporters Co.,Peshawar,Torkham Border (land),UK,Industrial,Gloves (leather),4203,10.56,4283,pairs,45228.48,2024-12-04,Land,,LC (Letter of Credit),FOB,USD
+EXP-PK-200176,INV-PK-100176,PakTex Exporters Co.,Sialkot,Sialkot Airport,Italy,Surgical,Surgical Instruments,9031,135.15,823,sets,111228.45,2023-11-22,Sea,PK58870,Open Account,CIF,USD
+EXP-PK-200177,INV-PK-100177,Gwadar Logistics Exports,Gwadar,Gwadar Port,Bangladesh,Textiles,Cotton Yarn,5205,1.31,321,bales,420.51,2024-11-16,Sea,PK53213,LC (Letter of Credit),CIF,USD
+EXP-PK-200178,INV-PK-100178,Sialkot Sports Exports,Multan,Multan Airport,Bangladesh,Tobacco,Processed Tobacco,2403,0.62,11756,kg,7288.72,2023-11-04,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200179,INV-PK-100179,Lahore Leatherworks,Multan,Multan Airport,Netherlands,Leather,Finished Leather,4107,47.31,288,sheets,13625.28,2023-06-23,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200180,INV-PK-100180,Karachi Seafood Ltd.,Lahore,Inland (Landi Kotal),Netherlands,Pharmaceuticals,Medicines (packaged),3004,10.32,3220,boxes,33230.4,2025-01-11,Sea,PK57526,Open Account,FOB,USD
+EXP-PK-200181,INV-PK-100181,Faisalabad Textiles,Gwadar,Gwadar Port,Italy,Sports Goods,Football,9506,14.83,2732,pcs,40515.56,2024-04-08,Sea,PK30308,LC (Letter of Credit),CIF,USD
+EXP-PK-200182,INV-PK-100182,Sindh Agro Exports,Karachi,Port Qasim,Bangladesh,Leather,Finished Leather,4107,47.37,193,sheets,9142.41,2025-02-10,Sea,PK31266,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200183,INV-PK-100183,Punjab Pharma Exports,Karachi,Port Qasim,Germany,Carpets,Handmade Carpets,5701,482.54,4527,pcs,2184458.58,2024-05-01,Air,,Open Account,CIF,USD
+EXP-PK-200184,INV-PK-100184,Faisalabad Textiles,Sialkot,Sialkot Airport,Saudi Arabia,Industrial,Gloves (leather),4203,4.72,356,pairs,1680.32,2025-08-18,Sea,PK58213,Cash Against Documents,CIF,USD
+EXP-PK-200185,INV-PK-100185,Sialkot Sports Exports,Hyderabad,Port Qasim,Afghanistan,Pharmaceuticals,Medicines (packaged),3004,3.42,100,boxes,342.0,2025-05-07,Sea,PK36174,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200186,INV-PK-100186,PakTex Exporters Co.,Peshawar,Torkham Border (land),Germany,Pharmaceuticals,Medicines (packaged),3004,3.27,3418,boxes,11176.86,2023-07-30,Land,,LC (Letter of Credit),CIF,USD
+EXP-PK-200187,INV-PK-100187,Sindh Agro Exports,Faisalabad,Inland (Faisalabad Depot),Saudi Arabia,Surgical,Surgical Instruments,9031,23.53,1601,sets,37671.53,2023-10-29,Sea,PK22021,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200188,INV-PK-100188,Lahore Leatherworks,Karachi,Port Qasim,USA,Seafood,Shrimp (frozen),0306,10.6,563,kg,5967.8,2025-10-25,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200189,INV-PK-100189,Sindh Agro Exports,Gwadar,Gwadar Port,China,Textiles,Cotton Yarn,5205,6.66,141,bales,939.06,2024-10-14,Sea,PK95191,Open Account,FOB,USD
+EXP-PK-200190,INV-PK-100190,Karachi Seafood Ltd.,Karachi,Port Qasim,Italy,Leather Goods,Footwear,6403,23.0,3486,pairs,80178.0,2023-10-12,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200191,INV-PK-100191,Balochistan Spices Co.,Karachi,Karachi Port,USA,Agriculture,Rice (Basmati),1006,2.07,17561,kg,36351.27,2024-03-17,Sea,PK81932,Cash Against Documents,FOB,USD
+EXP-PK-200192,INV-PK-100192,Sialkot Sports Exports,Sialkot,Sialkot Airport,Saudi Arabia,Textiles,Bed Linen,6302,6.09,4019,pcs,24475.71,2023-04-08,Sea,PK65027,Cash Against Documents,FOB,USD
+EXP-PK-200193,INV-PK-100193,Sindh Agro Exports,Peshawar,Torkham Border (land),Bangladesh,Pharmaceuticals,Medicines (packaged),3004,7.77,895,boxes,6954.15,2023-02-03,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200194,INV-PK-100194,Sialkot Sports Exports,Hyderabad,Port Qasim,USA,Spices,Chilies (dried),0904,4.75,16156,kg,76741.0,2024-12-23,Sea,PK84798,Cash Against Documents,FOB,USD
+EXP-PK-200195,INV-PK-100195,Sindh Agro Exports,Gwadar,Gwadar Port,UK,Pharmaceuticals,Medicines (packaged),3004,24.77,2068,boxes,51224.36,2023-02-11,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200196,INV-PK-100196,Gwadar Logistics Exports,Gwadar,Gwadar Port,Saudi Arabia,Leather Goods,Footwear,6403,50.92,3884,pairs,197773.28,2023-02-03,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200197,INV-PK-100197,Faisalabad Textiles,Lahore,Inland (Landi Kotal),Bangladesh,Leather Goods,Footwear,6403,47.49,4654,pairs,221018.46,2024-11-11,Sea,PK15811,Open Account,CIF,USD
+EXP-PK-200198,INV-PK-100198,Karachi Seafood Ltd.,Peshawar,Torkham Border (land),Italy,Carpets,Handmade Carpets,5701,436.29,2150,pcs,938023.5,2024-01-09,Sea,PK18270,Cash Against Documents,FOB,USD
+EXP-PK-200199,INV-PK-100199,Sialkot Sports Exports,Sialkot,Sialkot Airport,USA,Industrial,Gloves (leather),4203,15.27,3775,pairs,57644.25,2024-02-13,Sea,PK51365,Open Account,CIF,USD
+EXP-PK-200200,INV-PK-100200,Northern Fruits Exports,Peshawar,Torkham Border (land),Saudi Arabia,Textiles,Cotton Yarn,5205,1.54,451,bales,694.54,2024-01-27,Air,,Open Account,FOB,USD
+EXP-PK-200201,INV-PK-100201,Lahore Leatherworks,Multan,Multan Airport,UK,Industrial,Gloves (leather),4203,10.6,4134,pairs,43820.4,2025-01-23,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200202,INV-PK-100202,Gwadar Logistics Exports,Gwadar,Gwadar Port,UAE,Surgical,Surgical Instruments,9031,70.81,4478,sets,317087.18,2025-10-15,Sea,PK78062,Open Account,FOB,USD
+EXP-PK-200203,INV-PK-100203,Gwadar Logistics Exports,Lahore,Inland (Landi Kotal),Netherlands,Spices,Chilies (dried),0904,2.95,315,kg,929.25,2024-01-05,Land,,Open Account,CIF,USD
+EXP-PK-200204,INV-PK-100204,Sindh Agro Exports,Lahore,Inland (Landi Kotal),Germany,Carpets,Handmade Carpets,5701,457.42,465,pcs,212700.3,2024-08-28,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200205,INV-PK-100205,Karachi Seafood Ltd.,Peshawar,Torkham Border (land),Germany,Surgical,Surgical Instruments,9031,70.67,4750,sets,335682.5,2023-03-28,Sea,PK90589,Cash Against Documents,CIF,USD
+EXP-PK-200206,INV-PK-100206,PakTex Exporters Co.,Lahore,Inland (Landi Kotal),Netherlands,Agriculture,Mangoes (fresh),0804,2.88,11511,kg,33151.68,2023-11-24,Sea,PK28714,Cash Against Documents,FOB,USD
+EXP-PK-200207,INV-PK-100207,Karachi Seafood Ltd.,Lahore,Inland (Landi Kotal),China,Industrial,Gloves (leather),4203,13.0,2247,pairs,29211.0,2025-01-20,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200208,INV-PK-100208,Balochistan Spices Co.,Faisalabad,Inland (Faisalabad Depot),Italy,Agriculture,Mangoes (fresh),0804,1.23,6640,kg,8167.2,2025-01-31,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200209,INV-PK-100209,Northern Fruits Exports,Gwadar,Gwadar Port,Netherlands,Agriculture,Mangoes (fresh),0804,2.18,15072,kg,32856.96,2024-07-24,Sea,PK24869,LC (Letter of Credit),FOB,USD
+EXP-PK-200210,INV-PK-100210,Punjab Pharma Exports,Hyderabad,Port Qasim,Afghanistan,Textiles,Bed Linen,6302,6.5,3950,pcs,25675.0,2024-06-20,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200211,INV-PK-100211,Balochistan Spices Co.,Multan,Multan Airport,Italy,Sports Goods,Football,9506,4.55,2477,pcs,11270.35,2023-09-09,Sea,PK19706,Cash Against Documents,FOB,USD
+EXP-PK-200212,INV-PK-100212,Punjab Pharma Exports,Lahore,Inland (Landi Kotal),Germany,Carpets,Handmade Carpets,5701,75.9,2752,pcs,208876.8,2024-12-12,Land,,LC (Letter of Credit),CIF,USD
+EXP-PK-200213,INV-PK-100213,Sialkot Sports Exports,Faisalabad,Inland (Faisalabad Depot),UAE,Industrial,Gloves (leather),4203,9.39,4439,pairs,41682.21,2025-01-10,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200214,INV-PK-100214,Faisalabad Textiles,Faisalabad,Inland (Faisalabad Depot),China,Industrial,Gloves (leather),4203,7.67,594,pairs,4555.98,2025-10-08,Sea,PK57303,Open Account,CIF,USD
+EXP-PK-200215,INV-PK-100215,Northern Fruits Exports,Faisalabad,Inland (Faisalabad Depot),Bangladesh,Chemicals,Industrial Chemicals,2815,4.98,15254,kg,75964.92,2023-06-26,Sea,PK50539,Cash Against Documents,CIF,USD
+EXP-PK-200216,INV-PK-100216,Northern Fruits Exports,Hyderabad,Port Qasim,Netherlands,Tobacco,Processed Tobacco,2403,3.28,2112,kg,6927.36,2023-06-01,Sea,PK51553,LC (Letter of Credit),CIF,USD
+EXP-PK-200217,INV-PK-100217,Punjab Pharma Exports,Gwadar,Gwadar Port,UAE,Chemicals,Industrial Chemicals,2815,3.26,14049,kg,45799.74,2024-01-08,Sea,PK66704,LC (Letter of Credit),FOB,USD
+EXP-PK-200218,INV-PK-100218,Northern Fruits Exports,Faisalabad,Inland (Faisalabad Depot),Saudi Arabia,Leather,Finished Leather,4107,8.27,411,sheets,3398.97,2023-11-28,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200219,INV-PK-100219,Northern Fruits Exports,Multan,Multan Airport,UK,Agriculture,Rice (Basmati),1006,2.27,1718,kg,3899.86,2024-02-07,Land,,Open Account,FOB,USD
+EXP-PK-200220,INV-PK-100220,Sialkot Sports Exports,Lahore,Inland (Landi Kotal),Afghanistan,Carpets,Handmade Carpets,5701,88.18,4933,pcs,434991.94,2023-12-12,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200221,INV-PK-100221,Balochistan Spices Co.,Gwadar,Gwadar Port,Bangladesh,Textiles,Cotton Yarn,5205,3.49,185,bales,645.65,2023-02-28,Sea,PK15958,Open Account,FOB,USD
+EXP-PK-200222,INV-PK-100222,Balochistan Spices Co.,Hyderabad,Port Qasim,Bangladesh,Carpets,Handmade Carpets,5701,415.76,4736,pcs,1969039.36,2023-03-04,Air,,Open Account,CIF,USD
+EXP-PK-200223,INV-PK-100223,Punjab Pharma Exports,Sialkot,Sialkot Airport,Netherlands,Agriculture,Rice (Basmati),1006,2.97,15092,kg,44823.24,2025-07-17,Sea,PK17852,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200224,INV-PK-100224,Gwadar Logistics Exports,Peshawar,Torkham Border (land),Italy,Sports Goods,Football,9506,12.54,426,pcs,5342.04,2024-11-27,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200225,INV-PK-100225,Lahore Leatherworks,Gwadar,Gwadar Port,Netherlands,Leather,Finished Leather,4107,39.97,279,sheets,11151.63,2025-01-28,Land,,LC (Letter of Credit),CIF,USD
+EXP-PK-200226,INV-PK-100226,Faisalabad Textiles,Peshawar,Torkham Border (land),UK,Agriculture,Rice (Basmati),1006,1.56,18136,kg,28292.16,2025-07-09,Sea,PK28465,LC (Letter of Credit),FOB,USD
+EXP-PK-200227,INV-PK-100227,Sialkot Sports Exports,Hyderabad,Port Qasim,Bangladesh,Seafood,Shrimp (frozen),0306,4.0,9903,kg,39612.0,2024-05-23,Sea,PK52917,Open Account,FOB,USD
+EXP-PK-200228,INV-PK-100228,Karachi Seafood Ltd.,Peshawar,Torkham Border (land),Afghanistan,Surgical,Surgical Instruments,9031,12.16,2348,sets,28551.68,2025-10-18,Sea,PK75191,LC (Letter of Credit),FOB,USD
+EXP-PK-200229,INV-PK-100229,Gwadar Logistics Exports,Peshawar,Torkham Border (land),China,Sports Goods,Football,9506,3.58,602,pcs,2155.16,2024-12-23,Sea,PK16624,Open Account,CIF,USD
+EXP-PK-200230,INV-PK-100230,Balochistan Spices Co.,Peshawar,Torkham Border (land),Saudi Arabia,Pharmaceuticals,Medicines (packaged),3004,3.82,3249,boxes,12411.18,2023-01-17,Sea,PK66482,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200231,INV-PK-100231,Lahore Leatherworks,Hyderabad,Port Qasim,Germany,Textiles,Cotton Yarn,5205,6.17,292,bales,1801.64,2025-03-31,Sea,PK84747,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200232,INV-PK-100232,Northern Fruits Exports,Multan,Multan Airport,UK,Seafood,Shrimp (frozen),0306,11.66,7559,kg,88137.94,2025-10-29,Air,,Open Account,FOB,USD
+EXP-PK-200233,INV-PK-100233,Karachi Seafood Ltd.,Lahore,Inland (Landi Kotal),Netherlands,Agriculture,Mangoes (fresh),0804,1.21,17385,kg,21035.85,2024-11-25,Land,,Open Account,FOB,USD
+EXP-PK-200234,INV-PK-100234,Faisalabad Textiles,Hyderabad,Port Qasim,Afghanistan,Textiles,Cotton Yarn,5205,2.41,481,bales,1159.21,2023-04-03,Sea,PK27961,Open Account,CIF,USD
+EXP-PK-200235,INV-PK-100235,Northern Fruits Exports,Peshawar,Torkham Border (land),UAE,Spices,Chilies (dried),0904,1.06,19400,kg,20564.0,2023-10-14,Air,,Open Account,FOB,USD
+EXP-PK-200236,INV-PK-100236,Gwadar Logistics Exports,Multan,Multan Airport,Bangladesh,Agriculture,Mangoes (fresh),0804,0.61,17833,kg,10878.13,2025-09-30,Land,,Open Account,CIF,USD
+EXP-PK-200237,INV-PK-100237,PakTex Exporters Co.,Gwadar,Gwadar Port,Germany,Carpets,Handmade Carpets,5701,287.47,4964,pcs,1427001.08,2023-08-13,Air,,Open Account,FOB,USD
+EXP-PK-200238,INV-PK-100238,Balochistan Spices Co.,Peshawar,Torkham Border (land),Saudi Arabia,Carpets,Handmade Carpets,5701,83.21,2773,pcs,230741.33,2024-04-11,Land,,LC (Letter of Credit),CIF,USD
+EXP-PK-200239,INV-PK-100239,Karachi Seafood Ltd.,Hyderabad,Port Qasim,UAE,Tobacco,Processed Tobacco,2403,4.86,10509,kg,51073.74,2024-05-11,Sea,PK85047,LC (Letter of Credit),FOB,USD
+EXP-PK-200240,INV-PK-100240,PakTex Exporters Co.,Peshawar,Torkham Border (land),Germany,Seafood,Shrimp (frozen),0306,8.66,13945,kg,120763.7,2023-11-07,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200241,INV-PK-100241,Northern Fruits Exports,Peshawar,Torkham Border (land),USA,Leather Goods,Footwear,6403,60.0,3141,pairs,188460.0,2023-10-10,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200242,INV-PK-100242,Punjab Pharma Exports,Hyderabad,Port Qasim,Germany,Leather,Finished Leather,4107,31.29,450,sheets,14080.5,2025-07-30,Land,,Open Account,CIF,USD
+EXP-PK-200243,INV-PK-100243,Sialkot Sports Exports,Peshawar,Torkham Border (land),China,Sports Goods,Football,9506,3.27,1412,pcs,4617.24,2024-07-25,Land,,Open Account,FOB,USD
+EXP-PK-200244,INV-PK-100244,Sialkot Sports Exports,Multan,Multan Airport,China,Leather Goods,Footwear,6403,114.55,4452,pairs,509976.6,2025-09-28,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200245,INV-PK-100245,Northern Fruits Exports,Multan,Multan Airport,Saudi Arabia,Textiles,Bed Linen,6302,4.08,3104,pcs,12664.32,2025-02-16,Air,,Open Account,FOB,USD
+EXP-PK-200246,INV-PK-100246,Sialkot Sports Exports,Karachi,Port Qasim,UK,Agriculture,Mangoes (fresh),0804,1.19,3843,kg,4573.17,2025-06-24,Land,,Open Account,CIF,USD
+EXP-PK-200247,INV-PK-100247,Faisalabad Textiles,Sialkot,Sialkot Airport,Afghanistan,Agriculture,Rice (Basmati),1006,1.66,7131,kg,11837.46,2024-07-10,Sea,PK24316,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200248,INV-PK-100248,PakTex Exporters Co.,Sialkot,Sialkot Airport,China,Textiles,Cotton Yarn,5205,5.0,39,bales,195.0,2023-07-25,Air,,Open Account,CIF,USD
+EXP-PK-200249,INV-PK-100249,Sindh Agro Exports,Faisalabad,Inland (Faisalabad Depot),USA,Pharmaceuticals,Medicines (packaged),3004,24.39,4931,boxes,120267.09,2023-11-20,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200250,INV-PK-100250,Faisalabad Textiles,Multan,Multan Airport,Germany,Agriculture,Rice (Basmati),1006,2.25,10768,kg,24228.0,2023-05-02,Sea,PK95498,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200251,INV-PK-100251,Karachi Seafood Ltd.,Hyderabad,Port Qasim,UAE,Chemicals,Industrial Chemicals,2815,9.84,16294,kg,160332.96,2023-03-16,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200252,INV-PK-100252,Sialkot Sports Exports,Karachi,Karachi Port,Saudi Arabia,Spices,Chilies (dried),0904,4.42,3336,kg,14745.12,2023-08-08,Air,,Open Account,CIF,USD
+EXP-PK-200253,INV-PK-100253,Northern Fruits Exports,Peshawar,Torkham Border (land),UAE,Tobacco,Processed Tobacco,2403,4.6,16468,kg,75752.8,2025-10-29,Air,,Open Account,FOB,USD
+EXP-PK-200254,INV-PK-100254,Sindh Agro Exports,Gwadar,Gwadar Port,UAE,Leather Goods,Footwear,6403,114.48,3631,pairs,415676.88,2025-07-28,Land,,Open Account,FOB,USD
+EXP-PK-200255,INV-PK-100255,PakTex Exporters Co.,Gwadar,Gwadar Port,Saudi Arabia,Spices,Chilies (dried),0904,4.07,8423,kg,34281.61,2024-01-31,Sea,PK90079,Cash Against Documents,CIF,USD
+EXP-PK-200256,INV-PK-100256,Northern Fruits Exports,Gwadar,Gwadar Port,UK,Seafood,Shrimp (frozen),0306,11.39,17334,kg,197434.26,2023-07-15,Sea,PK28430,Cash Against Documents,CIF,USD
+EXP-PK-200257,INV-PK-100257,Faisalabad Textiles,Karachi,Port Qasim,Netherlands,Sports Goods,Football,9506,3.27,141,pcs,461.07,2025-07-03,Air,,Open Account,CIF,USD
+EXP-PK-200258,INV-PK-100258,Balochistan Spices Co.,Karachi,Port Qasim,Germany,Leather Goods,Footwear,6403,51.41,4054,pairs,208416.14,2024-04-28,Sea,PK97528,LC (Letter of Credit),CIF,USD
+EXP-PK-200259,INV-PK-100259,Sialkot Sports Exports,Faisalabad,Inland (Faisalabad Depot),Netherlands,Carpets,Handmade Carpets,5701,494.27,760,pcs,375645.2,2025-10-26,Land,,Open Account,FOB,USD
+EXP-PK-200260,INV-PK-100260,Sialkot Sports Exports,Gwadar,Gwadar Port,Bangladesh,Sports Goods,Football,9506,18.64,1910,pcs,35602.4,2024-03-24,Sea,PK72676,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200261,INV-PK-100261,Balochistan Spices Co.,Gwadar,Gwadar Port,Netherlands,Leather Goods,Footwear,6403,116.69,4212,pairs,491498.28,2025-08-22,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200262,INV-PK-100262,Balochistan Spices Co.,Lahore,Inland (Landi Kotal),Afghanistan,Surgical,Surgical Instruments,9031,169.28,2348,sets,397469.44,2025-01-10,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200263,INV-PK-100263,Northern Fruits Exports,Sialkot,Sialkot Airport,Bangladesh,Pharmaceuticals,Medicines (packaged),3004,10.96,1374,boxes,15059.04,2023-11-03,Sea,PK53007,Cash Against Documents,FOB,USD
+EXP-PK-200264,INV-PK-100264,Faisalabad Textiles,Peshawar,Torkham Border (land),UK,Chemicals,Industrial Chemicals,2815,2.45,17307,kg,42402.15,2025-07-01,Sea,PK69432,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200265,INV-PK-100265,Punjab Pharma Exports,Karachi,Port Qasim,Saudi Arabia,Leather Goods,Footwear,6403,99.42,4998,pairs,496901.16,2023-02-14,Air,,Open Account,FOB,USD
+EXP-PK-200266,INV-PK-100266,Faisalabad Textiles,Lahore,Inland (Landi Kotal),USA,Seafood,Shrimp (frozen),0306,11.97,11153,kg,133501.41,2024-12-06,Land,,LC (Letter of Credit),FOB,USD
+EXP-PK-200267,INV-PK-100267,Sindh Agro Exports,Peshawar,Torkham Border (land),USA,Agriculture,Rice (Basmati),1006,2.42,18900,kg,45738.0,2025-04-17,Sea,PK27750,Cash Against Documents,CIF,USD
+EXP-PK-200268,INV-PK-100268,Gwadar Logistics Exports,Peshawar,Torkham Border (land),Netherlands,Seafood,Shrimp (frozen),0306,10.65,5022,kg,53484.3,2023-06-14,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200269,INV-PK-100269,Sindh Agro Exports,Faisalabad,Inland (Faisalabad Depot),Afghanistan,Seafood,Shrimp (frozen),0306,7.05,2670,kg,18823.5,2023-09-18,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200270,INV-PK-100270,PakTex Exporters Co.,Multan,Multan Airport,Italy,Carpets,Handmade Carpets,5701,479.32,3034,pcs,1454256.88,2025-05-18,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200271,INV-PK-100271,Faisalabad Textiles,Peshawar,Torkham Border (land),Germany,Leather,Finished Leather,4107,15.29,336,sheets,5137.44,2024-07-18,Sea,PK24790,LC (Letter of Credit),CIF,USD
+EXP-PK-200272,INV-PK-100272,Balochistan Spices Co.,Karachi,Karachi Port,China,Textiles,Bed Linen,6302,5.25,1797,pcs,9434.25,2023-07-26,Land,,LC (Letter of Credit),CIF,USD
+EXP-PK-200273,INV-PK-100273,Balochistan Spices Co.,Karachi,Karachi Port,USA,Seafood,Shrimp (frozen),0306,4.02,13464,kg,54125.28,2025-06-17,Sea,PK80747,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200274,INV-PK-100274,Karachi Seafood Ltd.,Multan,Multan Airport,China,Tobacco,Processed Tobacco,2403,2.84,15469,kg,43931.96,2024-10-15,Land,,Open Account,FOB,USD
+EXP-PK-200275,INV-PK-100275,Sialkot Sports Exports,Faisalabad,Inland (Faisalabad Depot),Afghanistan,Sports Goods,Football,9506,16.56,4262,pcs,70578.72,2025-04-26,Air,,Open Account,FOB,USD
+EXP-PK-200276,INV-PK-100276,Northern Fruits Exports,Faisalabad,Inland (Faisalabad Depot),Netherlands,Pharmaceuticals,Medicines (packaged),3004,14.25,2809,boxes,40028.25,2025-10-12,Sea,PK55143,Cash Against Documents,CIF,USD
+EXP-PK-200277,INV-PK-100277,Gwadar Logistics Exports,Hyderabad,Port Qasim,UAE,Agriculture,Rice (Basmati),1006,2.69,8129,kg,21867.01,2025-02-09,Sea,PK80507,Cash Against Documents,FOB,USD
+EXP-PK-200278,INV-PK-100278,Faisalabad Textiles,Multan,Multan Airport,UAE,Industrial,Gloves (leather),4203,3.55,153,pairs,543.15,2025-08-06,Sea,PK83713,Cash Against Documents,CIF,USD
+EXP-PK-200279,INV-PK-100279,Northern Fruits Exports,Faisalabad,Inland (Faisalabad Depot),Netherlands,Sports Goods,Football,9506,23.14,3105,pcs,71849.7,2024-06-06,Sea,PK53288,LC (Letter of Credit),CIF,USD
+EXP-PK-200280,INV-PK-100280,Lahore Leatherworks,Lahore,Inland (Landi Kotal),Afghanistan,Leather Goods,Footwear,6403,87.45,1072,pairs,93746.4,2024-01-26,Sea,PK45187,Cash Against Documents,FOB,USD
+EXP-PK-200281,INV-PK-100281,Sindh Agro Exports,Sialkot,Sialkot Airport,Bangladesh,Leather Goods,Footwear,6403,25.0,82,pairs,2050.0,2024-03-20,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200282,INV-PK-100282,Sialkot Sports Exports,Karachi,Karachi Port,China,Leather Goods,Footwear,6403,48.56,2953,pairs,143397.68,2023-08-29,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200283,INV-PK-100283,Balochistan Spices Co.,Sialkot,Sialkot Airport,Netherlands,Chemicals,Industrial Chemicals,2815,12.25,8805,kg,107861.25,2024-05-05,Land,,Open Account,CIF,USD
+EXP-PK-200284,INV-PK-100284,Gwadar Logistics Exports,Peshawar,Torkham Border (land),Afghanistan,Carpets,Handmade Carpets,5701,456.87,1747,pcs,798151.89,2025-01-05,Air,,Open Account,CIF,USD
+EXP-PK-200285,INV-PK-100285,Northern Fruits Exports,Peshawar,Torkham Border (land),Italy,Textiles,Bed Linen,6302,4.5,3920,pcs,17640.0,2025-08-19,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200286,INV-PK-100286,Lahore Leatherworks,Hyderabad,Port Qasim,USA,Spices,Chilies (dried),0904,2.98,12479,kg,37187.42,2024-03-29,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200287,INV-PK-100287,Sialkot Sports Exports,Hyderabad,Port Qasim,Saudi Arabia,Leather,Finished Leather,4107,43.81,474,sheets,20765.94,2024-02-06,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200288,INV-PK-100288,Balochistan Spices Co.,Sialkot,Sialkot Airport,Italy,Pharmaceuticals,Medicines (packaged),3004,4.53,4633,boxes,20987.49,2024-11-22,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200289,INV-PK-100289,Punjab Pharma Exports,Faisalabad,Inland (Faisalabad Depot),Germany,Leather,Finished Leather,4107,27.15,129,sheets,3502.35,2023-10-14,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200290,INV-PK-100290,Northern Fruits Exports,Karachi,Karachi Port,UK,Tobacco,Processed Tobacco,2403,2.57,19602,kg,50377.14,2023-04-10,Sea,PK64053,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200291,INV-PK-100291,Sindh Agro Exports,Faisalabad,Inland (Faisalabad Depot),USA,Sports Goods,Football,9506,15.79,1650,pcs,26053.5,2025-07-22,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200292,INV-PK-100292,Punjab Pharma Exports,Karachi,Karachi Port,Afghanistan,Pharmaceuticals,Medicines (packaged),3004,16.2,1208,boxes,19569.6,2025-04-22,Sea,PK12192,Open Account,CIF,USD
+EXP-PK-200293,INV-PK-100293,PakTex Exporters Co.,Hyderabad,Port Qasim,UAE,Textiles,Bed Linen,6302,1.35,653,pcs,881.55,2023-07-17,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200294,INV-PK-100294,Faisalabad Textiles,Multan,Multan Airport,Germany,Agriculture,Rice (Basmati),1006,0.82,3122,kg,2560.04,2025-03-23,Sea,PK58896,Cash Against Documents,CIF,USD
+EXP-PK-200295,INV-PK-100295,Balochistan Spices Co.,Sialkot,Sialkot Airport,China,Agriculture,Rice (Basmati),1006,0.85,12853,kg,10925.05,2023-06-15,Land,,LC (Letter of Credit),FOB,USD
+EXP-PK-200296,INV-PK-100296,Gwadar Logistics Exports,Hyderabad,Port Qasim,Netherlands,Pharmaceuticals,Medicines (packaged),3004,5.37,1734,boxes,9311.58,2025-09-01,Sea,PK93459,LC (Letter of Credit),FOB,USD
+EXP-PK-200297,INV-PK-100297,Sindh Agro Exports,Peshawar,Torkham Border (land),Netherlands,Carpets,Handmade Carpets,5701,453.55,2375,pcs,1077181.25,2024-11-09,Land,,LC (Letter of Credit),FOB,USD
+EXP-PK-200298,INV-PK-100298,Faisalabad Textiles,Sialkot,Sialkot Airport,Bangladesh,Surgical,Surgical Instruments,9031,136.84,869,sets,118913.96,2024-07-09,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200299,INV-PK-100299,Northern Fruits Exports,Karachi,Karachi Port,Germany,Textiles,Cotton Yarn,5205,2.18,21,bales,45.78,2024-02-29,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200300,INV-PK-100300,Sindh Agro Exports,Multan,Multan Airport,UAE,Spices,Chilies (dried),0904,1.84,5643,kg,10383.12,2024-05-07,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200301,INV-PK-100301,Gwadar Logistics Exports,Faisalabad,Inland (Faisalabad Depot),UK,Pharmaceuticals,Medicines (packaged),3004,5.25,452,boxes,2373.0,2024-12-09,Sea,PK22803,Cash Against Documents,FOB,USD
+EXP-PK-200302,INV-PK-100302,Sindh Agro Exports,Gwadar,Gwadar Port,Bangladesh,Industrial,Gloves (leather),4203,3.29,2309,pairs,7596.61,2025-03-23,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200303,INV-PK-100303,Punjab Pharma Exports,Peshawar,Torkham Border (land),China,Agriculture,Mangoes (fresh),0804,1.02,7348,kg,7494.96,2025-02-07,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200304,INV-PK-100304,Sindh Agro Exports,Multan,Multan Airport,China,Leather Goods,Footwear,6403,65.38,3455,pairs,225887.9,2023-05-31,Sea,PK45123,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200305,INV-PK-100305,Karachi Seafood Ltd.,Hyderabad,Port Qasim,Germany,Agriculture,Mangoes (fresh),0804,0.6,16008,kg,9604.8,2023-08-07,Sea,PK10680,Open Account,CIF,USD
+EXP-PK-200306,INV-PK-100306,Lahore Leatherworks,Multan,Multan Airport,UK,Leather,Finished Leather,4107,33.26,41,sheets,1363.66,2023-06-28,Sea,PK66489,Cash Against Documents,CIF,USD
+EXP-PK-200307,INV-PK-100307,Sindh Agro Exports,Karachi,Karachi Port,Germany,Pharmaceuticals,Medicines (packaged),3004,21.97,4605,boxes,101171.85,2023-07-10,Land,,Open Account,CIF,USD
+EXP-PK-200308,INV-PK-100308,PakTex Exporters Co.,Multan,Multan Airport,Netherlands,Seafood,Shrimp (frozen),0306,3.55,5609,kg,19911.95,2023-06-23,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200309,INV-PK-100309,Gwadar Logistics Exports,Faisalabad,Inland (Faisalabad Depot),UAE,Agriculture,Rice (Basmati),1006,2.52,14990,kg,37774.8,2024-09-08,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200310,INV-PK-100310,Sindh Agro Exports,Faisalabad,Inland (Faisalabad Depot),Netherlands,Agriculture,Rice (Basmati),1006,0.96,4266,kg,4095.36,2025-05-12,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200311,INV-PK-100311,Lahore Leatherworks,Multan,Multan Airport,China,Leather Goods,Footwear,6403,50.75,2427,pairs,123170.25,2025-10-12,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200312,INV-PK-100312,Sindh Agro Exports,Faisalabad,Inland (Faisalabad Depot),Saudi Arabia,Textiles,Cotton Yarn,5205,5.25,185,bales,971.25,2025-03-21,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200313,INV-PK-100313,Punjab Pharma Exports,Gwadar,Gwadar Port,Netherlands,Tobacco,Processed Tobacco,2403,2.58,14974,kg,38632.92,2023-10-06,Air,,Open Account,FOB,USD
+EXP-PK-200314,INV-PK-100314,Punjab Pharma Exports,Gwadar,Gwadar Port,UAE,Seafood,Shrimp (frozen),0306,3.33,5123,kg,17059.59,2024-10-15,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200315,INV-PK-100315,Lahore Leatherworks,Hyderabad,Port Qasim,Saudi Arabia,Tobacco,Processed Tobacco,2403,3.71,17914,kg,66460.94,2025-03-15,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200316,INV-PK-100316,Balochistan Spices Co.,Faisalabad,Inland (Faisalabad Depot),Afghanistan,Textiles,Cotton Yarn,5205,4.48,266,bales,1191.68,2025-08-03,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200317,INV-PK-100317,Sialkot Sports Exports,Lahore,Inland (Landi Kotal),Netherlands,Carpets,Handmade Carpets,5701,98.23,2242,pcs,220231.66,2025-10-19,Sea,PK93012,Open Account,FOB,USD
+EXP-PK-200318,INV-PK-100318,Sialkot Sports Exports,Faisalabad,Inland (Faisalabad Depot),Netherlands,Industrial,Gloves (leather),4203,11.12,1219,pairs,13555.28,2025-02-11,Sea,PK68860,Cash Against Documents,CIF,USD
+EXP-PK-200319,INV-PK-100319,Northern Fruits Exports,Hyderabad,Port Qasim,Afghanistan,Textiles,Cotton Yarn,5205,2.74,189,bales,517.86,2025-01-06,Land,,LC (Letter of Credit),FOB,USD
+EXP-PK-200320,INV-PK-100320,Faisalabad Textiles,Gwadar,Gwadar Port,UAE,Carpets,Handmade Carpets,5701,59.03,1617,pcs,95451.51,2023-04-01,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200321,INV-PK-100321,Gwadar Logistics Exports,Lahore,Inland (Landi Kotal),USA,Textiles,Bed Linen,6302,2.32,1644,pcs,3814.08,2024-06-13,Sea,PK76935,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200322,INV-PK-100322,Lahore Leatherworks,Hyderabad,Port Qasim,Italy,Industrial,Gloves (leather),4203,3.28,4453,pairs,14605.84,2025-10-21,Sea,PK55215,LC (Letter of Credit),CIF,USD
+EXP-PK-200323,INV-PK-100323,Sindh Agro Exports,Multan,Multan Airport,Netherlands,Chemicals,Industrial Chemicals,2815,18.13,13614,kg,246821.82,2023-06-25,Sea,PK28569,Open Account,CIF,USD
+EXP-PK-200324,INV-PK-100324,Lahore Leatherworks,Peshawar,Torkham Border (land),China,Pharmaceuticals,Medicines (packaged),3004,19.94,2497,boxes,49790.18,2025-09-16,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200325,INV-PK-100325,Punjab Pharma Exports,Peshawar,Torkham Border (land),Germany,Textiles,Bed Linen,6302,1.43,2690,pcs,3846.7,2024-09-06,Sea,PK25084,LC (Letter of Credit),CIF,USD
+EXP-PK-200326,INV-PK-100326,Sindh Agro Exports,Faisalabad,Inland (Faisalabad Depot),China,Pharmaceuticals,Medicines (packaged),3004,15.08,3729,boxes,56233.32,2023-12-24,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200327,INV-PK-100327,Northern Fruits Exports,Hyderabad,Port Qasim,Italy,Sports Goods,Football,9506,14.09,646,pcs,9102.14,2025-04-09,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200328,INV-PK-100328,Gwadar Logistics Exports,Hyderabad,Port Qasim,USA,Leather Goods,Footwear,6403,41.22,1821,pairs,75061.62,2024-02-09,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200329,INV-PK-100329,PakTex Exporters Co.,Sialkot,Sialkot Airport,China,Agriculture,Rice (Basmati),1006,2.11,11458,kg,24176.38,2023-05-09,Land,,LC (Letter of Credit),FOB,USD
+EXP-PK-200330,INV-PK-100330,Lahore Leatherworks,Gwadar,Gwadar Port,China,Surgical,Surgical Instruments,9031,77.66,4932,sets,383019.12,2023-08-22,Sea,PK97910,Cash Against Documents,CIF,USD
+EXP-PK-200331,INV-PK-100331,Balochistan Spices Co.,Hyderabad,Port Qasim,Bangladesh,Seafood,Shrimp (frozen),0306,8.45,4820,kg,40729.0,2023-08-22,Air,,Open Account,CIF,USD
+EXP-PK-200332,INV-PK-100332,Balochistan Spices Co.,Faisalabad,Inland (Faisalabad Depot),Saudi Arabia,Chemicals,Industrial Chemicals,2815,3.77,3141,kg,11841.57,2023-06-23,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200333,INV-PK-100333,Sindh Agro Exports,Sialkot,Sialkot Airport,Saudi Arabia,Textiles,Bed Linen,6302,2.57,811,pcs,2084.27,2024-01-10,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200334,INV-PK-100334,Gwadar Logistics Exports,Faisalabad,Inland (Faisalabad Depot),Bangladesh,Seafood,Shrimp (frozen),0306,4.68,5773,kg,27017.64,2025-05-16,Sea,PK73788,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200335,INV-PK-100335,Punjab Pharma Exports,Multan,Multan Airport,UAE,Leather,Finished Leather,4107,12.8,448,sheets,5734.4,2024-10-06,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200336,INV-PK-100336,PakTex Exporters Co.,Peshawar,Torkham Border (land),UAE,Sports Goods,Football,9506,4.25,2627,pcs,11164.75,2025-02-25,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200337,INV-PK-100337,Punjab Pharma Exports,Hyderabad,Port Qasim,Italy,Surgical,Surgical Instruments,9031,87.98,4912,sets,432157.76,2023-12-09,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200338,INV-PK-100338,Sialkot Sports Exports,Karachi,Port Qasim,China,Pharmaceuticals,Medicines (packaged),3004,3.69,1995,boxes,7361.55,2024-08-14,Sea,PK69942,Cash Against Documents,FOB,USD
+EXP-PK-200339,INV-PK-100339,Balochistan Spices Co.,Lahore,Inland (Landi Kotal),Saudi Arabia,Industrial,Gloves (leather),4203,19.42,4328,pairs,84049.76,2025-01-21,Land,,LC (Letter of Credit),CIF,USD
+EXP-PK-200340,INV-PK-100340,Northern Fruits Exports,Sialkot,Sialkot Airport,Netherlands,Textiles,Bed Linen,6302,6.68,1296,pcs,8657.28,2024-05-21,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200341,INV-PK-100341,Sialkot Sports Exports,Gwadar,Gwadar Port,UK,Surgical,Surgical Instruments,9031,42.47,3346,sets,142104.62,2023-08-29,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200342,INV-PK-100342,Balochistan Spices Co.,Hyderabad,Port Qasim,UAE,Spices,Chilies (dried),0904,5.65,11179,kg,63161.35,2023-10-13,Sea,PK37124,LC (Letter of Credit),CIF,USD
+EXP-PK-200343,INV-PK-100343,Northern Fruits Exports,Multan,Multan Airport,Bangladesh,Pharmaceuticals,Medicines (packaged),3004,14.72,1407,boxes,20711.04,2023-12-11,Air,,Open Account,CIF,USD
+EXP-PK-200344,INV-PK-100344,Balochistan Spices Co.,Multan,Multan Airport,Afghanistan,Chemicals,Industrial Chemicals,2815,23.27,3822,kg,88937.94,2023-07-15,Sea,PK63948,LC (Letter of Credit),CIF,USD
+EXP-PK-200345,INV-PK-100345,Karachi Seafood Ltd.,Faisalabad,Inland (Faisalabad Depot),China,Leather,Finished Leather,4107,19.57,213,sheets,4168.41,2024-10-21,Sea,PK98635,Cash Against Documents,CIF,USD
+EXP-PK-200346,INV-PK-100346,Karachi Seafood Ltd.,Multan,Multan Airport,Netherlands,Seafood,Shrimp (frozen),0306,7.57,4923,kg,37267.11,2025-07-14,Sea,PK93050,LC (Letter of Credit),CIF,USD
+EXP-PK-200347,INV-PK-100347,Northern Fruits Exports,Multan,Multan Airport,Germany,Surgical,Surgical Instruments,9031,31.82,3056,sets,97241.92,2025-09-26,Sea,PK86278,LC (Letter of Credit),FOB,USD
+EXP-PK-200348,INV-PK-100348,Punjab Pharma Exports,Gwadar,Gwadar Port,UK,Industrial,Gloves (leather),4203,6.48,2910,pairs,18856.8,2025-03-25,Sea,PK66314,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200349,INV-PK-100349,Sialkot Sports Exports,Gwadar,Gwadar Port,Saudi Arabia,Agriculture,Mangoes (fresh),0804,0.89,9674,kg,8609.86,2023-09-25,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200350,INV-PK-100350,PakTex Exporters Co.,Karachi,Karachi Port,Italy,Textiles,Cotton Yarn,5205,4.63,26,bales,120.38,2023-09-12,Sea,PK67840,Cash Against Documents,FOB,USD
+EXP-PK-200351,INV-PK-100351,Gwadar Logistics Exports,Sialkot,Sialkot Airport,UAE,Chemicals,Industrial Chemicals,2815,10.63,2774,kg,29487.62,2024-09-10,Sea,PK45916,LC (Letter of Credit),CIF,USD
+EXP-PK-200352,INV-PK-100352,Sialkot Sports Exports,Lahore,Inland (Landi Kotal),Germany,Carpets,Handmade Carpets,5701,78.52,4949,pcs,388595.48,2023-12-05,Sea,PK61949,Open Account,FOB,USD
+EXP-PK-200353,INV-PK-100353,Gwadar Logistics Exports,Lahore,Inland (Landi Kotal),UK,Textiles,Cotton Yarn,5205,3.12,405,bales,1263.6,2024-03-13,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200354,INV-PK-100354,Balochistan Spices Co.,Sialkot,Sialkot Airport,Afghanistan,Carpets,Handmade Carpets,5701,164.59,3410,pcs,561251.9,2025-06-30,Sea,PK11056,Open Account,FOB,USD
+EXP-PK-200355,INV-PK-100355,Gwadar Logistics Exports,Faisalabad,Inland (Faisalabad Depot),Italy,Textiles,Bed Linen,6302,6.27,2982,pcs,18697.14,2024-04-13,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200356,INV-PK-100356,Sindh Agro Exports,Gwadar,Gwadar Port,Germany,Chemicals,Industrial Chemicals,2815,14.57,8295,kg,120858.15,2024-09-04,Sea,PK60164,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200357,INV-PK-100357,Sindh Agro Exports,Karachi,Karachi Port,Italy,Agriculture,Mangoes (fresh),0804,1.37,18597,kg,25477.89,2024-03-12,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200358,INV-PK-100358,Balochistan Spices Co.,Peshawar,Torkham Border (land),China,Textiles,Bed Linen,6302,6.78,4825,pcs,32713.5,2023-07-25,Sea,PK26142,Cash Against Documents,CIF,USD
+EXP-PK-200359,INV-PK-100359,Gwadar Logistics Exports,Gwadar,Gwadar Port,UAE,Sports Goods,Football,9506,5.48,3657,pcs,20040.36,2024-07-21,Land,,LC (Letter of Credit),FOB,USD
+EXP-PK-200360,INV-PK-100360,Northern Fruits Exports,Multan,Multan Airport,USA,Tobacco,Processed Tobacco,2403,4.72,3706,kg,17492.32,2024-09-09,Sea,PK77862,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200361,INV-PK-100361,Sialkot Sports Exports,Karachi,Karachi Port,Italy,Seafood,Shrimp (frozen),0306,3.6,14848,kg,53452.8,2023-08-19,Sea,PK75481,LC (Letter of Credit),FOB,USD
+EXP-PK-200362,INV-PK-100362,Lahore Leatherworks,Gwadar,Gwadar Port,UAE,Seafood,Shrimp (frozen),0306,8.17,16852,kg,137680.84,2025-05-11,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200363,INV-PK-100363,Sindh Agro Exports,Karachi,Karachi Port,USA,Agriculture,Rice (Basmati),1006,0.85,15925,kg,13536.25,2024-03-17,Sea,PK17925,Cash Against Documents,CIF,USD
+EXP-PK-200364,INV-PK-100364,Northern Fruits Exports,Hyderabad,Port Qasim,Netherlands,Leather Goods,Footwear,6403,32.18,826,pairs,26580.68,2025-04-03,Sea,PK93956,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200365,INV-PK-100365,Sindh Agro Exports,Multan,Multan Airport,UK,Pharmaceuticals,Medicines (packaged),3004,4.94,4074,boxes,20125.56,2024-02-21,Sea,PK80305,Open Account,CIF,USD
+EXP-PK-200366,INV-PK-100366,Balochistan Spices Co.,Lahore,Inland (Landi Kotal),Saudi Arabia,Leather Goods,Footwear,6403,83.17,2620,pairs,217905.4,2025-06-14,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200367,INV-PK-100367,Faisalabad Textiles,Lahore,Inland (Landi Kotal),Netherlands,Textiles,Bed Linen,6302,3.38,4387,pcs,14828.06,2025-07-17,Land,,LC (Letter of Credit),CIF,USD
+EXP-PK-200368,INV-PK-100368,Karachi Seafood Ltd.,Lahore,Inland (Landi Kotal),USA,Leather Goods,Footwear,6403,53.17,4084,pairs,217146.28,2023-10-09,Land,,LC (Letter of Credit),FOB,USD
+EXP-PK-200369,INV-PK-100369,Punjab Pharma Exports,Gwadar,Gwadar Port,Afghanistan,Pharmaceuticals,Medicines (packaged),3004,11.54,1890,boxes,21810.6,2024-06-14,Sea,PK58741,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200370,INV-PK-100370,Sindh Agro Exports,Karachi,Port Qasim,Netherlands,Agriculture,Rice (Basmati),1006,1.66,6097,kg,10121.02,2023-05-11,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200371,INV-PK-100371,Punjab Pharma Exports,Gwadar,Gwadar Port,USA,Surgical,Surgical Instruments,9031,152.05,2518,sets,382861.9,2023-12-08,Sea,PK30618,Open Account,FOB,USD
+EXP-PK-200372,INV-PK-100372,Balochistan Spices Co.,Lahore,Inland (Landi Kotal),China,Leather Goods,Footwear,6403,35.54,4498,pairs,159858.92,2023-01-06,Sea,PK11610,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200373,INV-PK-100373,Punjab Pharma Exports,Gwadar,Gwadar Port,Netherlands,Chemicals,Industrial Chemicals,2815,12.01,10916,kg,131101.16,2023-11-04,Sea,PK14635,Cash Against Documents,FOB,USD
+EXP-PK-200374,INV-PK-100374,Lahore Leatherworks,Sialkot,Sialkot Airport,Netherlands,Chemicals,Industrial Chemicals,2815,27.27,12522,kg,341474.94,2024-10-17,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200375,INV-PK-100375,Sindh Agro Exports,Karachi,Karachi Port,China,Industrial,Gloves (leather),4203,3.22,4699,pairs,15130.78,2023-04-05,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200376,INV-PK-100376,Sialkot Sports Exports,Multan,Multan Airport,Germany,Textiles,Bed Linen,6302,5.32,1681,pcs,8942.92,2025-07-24,Sea,PK58354,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200377,INV-PK-100377,Balochistan Spices Co.,Multan,Multan Airport,Bangladesh,Sports Goods,Football,9506,5.9,3972,pcs,23434.8,2025-08-08,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200378,INV-PK-100378,Northern Fruits Exports,Sialkot,Sialkot Airport,UAE,Textiles,Cotton Yarn,5205,5.26,267,bales,1404.42,2025-04-19,Sea,PK40539,Open Account,FOB,USD
+EXP-PK-200379,INV-PK-100379,Lahore Leatherworks,Karachi,Port Qasim,Saudi Arabia,Textiles,Bed Linen,6302,7.24,3945,pcs,28561.8,2024-02-25,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200380,INV-PK-100380,Punjab Pharma Exports,Karachi,Karachi Port,Saudi Arabia,Textiles,Bed Linen,6302,1.89,1565,pcs,2957.85,2023-03-31,Sea,PK78125,Cash Against Documents,CIF,USD
+EXP-PK-200381,INV-PK-100381,Punjab Pharma Exports,Lahore,Inland (Landi Kotal),Bangladesh,Textiles,Bed Linen,6302,2.59,3722,pcs,9639.98,2023-10-01,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200382,INV-PK-100382,Balochistan Spices Co.,Karachi,Port Qasim,UAE,Sports Goods,Football,9506,2.94,2853,pcs,8387.82,2024-08-20,Air,,Open Account,CIF,USD
+EXP-PK-200383,INV-PK-100383,Lahore Leatherworks,Gwadar,Gwadar Port,Italy,Agriculture,Rice (Basmati),1006,2.41,17547,kg,42288.27,2024-04-23,Sea,PK36569,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200384,INV-PK-100384,Karachi Seafood Ltd.,Lahore,Inland (Landi Kotal),UAE,Surgical,Surgical Instruments,9031,75.0,4108,sets,308100.0,2025-08-12,Sea,PK63282,LC (Letter of Credit),CIF,USD
+EXP-PK-200385,INV-PK-100385,Faisalabad Textiles,Peshawar,Torkham Border (land),Saudi Arabia,Surgical,Surgical Instruments,9031,31.02,4233,sets,131307.66,2024-06-26,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200386,INV-PK-100386,Sialkot Sports Exports,Karachi,Karachi Port,Germany,Leather,Finished Leather,4107,10.74,199,sheets,2137.26,2023-07-06,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200387,INV-PK-100387,Gwadar Logistics Exports,Karachi,Port Qasim,Saudi Arabia,Tobacco,Processed Tobacco,2403,4.09,3083,kg,12609.47,2023-12-23,Sea,PK63004,Cash Against Documents,FOB,USD
+EXP-PK-200388,INV-PK-100388,Sindh Agro Exports,Peshawar,Torkham Border (land),UK,Industrial,Gloves (leather),4203,5.36,3614,pairs,19371.04,2023-10-14,Sea,PK11567,LC (Letter of Credit),FOB,USD
+EXP-PK-200389,INV-PK-100389,Karachi Seafood Ltd.,Sialkot,Sialkot Airport,Netherlands,Agriculture,Mangoes (fresh),0804,2.3,12858,kg,29573.4,2023-06-22,Land,,Open Account,FOB,USD
+EXP-PK-200390,INV-PK-100390,PakTex Exporters Co.,Lahore,Inland (Landi Kotal),China,Chemicals,Industrial Chemicals,2815,21.06,10900,kg,229554.0,2025-06-27,Sea,PK22055,Open Account,FOB,USD
+EXP-PK-200391,INV-PK-100391,PakTex Exporters Co.,Peshawar,Torkham Border (land),USA,Leather,Finished Leather,4107,16.33,173,sheets,2825.09,2025-06-06,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200392,INV-PK-100392,PakTex Exporters Co.,Hyderabad,Port Qasim,Netherlands,Leather,Finished Leather,4107,13.17,454,sheets,5979.18,2024-12-25,Sea,PK34530,Open Account,CIF,USD
+EXP-PK-200393,INV-PK-100393,Punjab Pharma Exports,Faisalabad,Inland (Faisalabad Depot),USA,Spices,Chilies (dried),0904,3.92,8076,kg,31657.92,2024-05-18,Land,,Open Account,CIF,USD
+EXP-PK-200394,INV-PK-100394,Gwadar Logistics Exports,Peshawar,Torkham Border (land),USA,Textiles,Bed Linen,6302,4.13,4736,pcs,19559.68,2024-07-26,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200395,INV-PK-100395,Faisalabad Textiles,Sialkot,Sialkot Airport,Afghanistan,Industrial,Gloves (leather),4203,3.91,2935,pairs,11475.85,2023-02-09,Air,,Open Account,CIF,USD
+EXP-PK-200396,INV-PK-100396,Northern Fruits Exports,Peshawar,Torkham Border (land),Germany,Chemicals,Industrial Chemicals,2815,15.57,12267,kg,190997.19,2025-10-25,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200397,INV-PK-100397,Karachi Seafood Ltd.,Karachi,Port Qasim,Bangladesh,Sports Goods,Football,9506,2.51,4361,pcs,10946.11,2023-03-02,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200398,INV-PK-100398,Northern Fruits Exports,Gwadar,Gwadar Port,Bangladesh,Sports Goods,Football,9506,28.1,2830,pcs,79523.0,2023-11-23,Sea,PK42487,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200399,INV-PK-100399,Northern Fruits Exports,Karachi,Karachi Port,Bangladesh,Tobacco,Processed Tobacco,2403,3.63,18457,kg,66998.91,2025-03-06,Air,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200400,INV-PK-100400,Faisalabad Textiles,Gwadar,Gwadar Port,Germany,Chemicals,Industrial Chemicals,2815,21.45,3135,kg,67245.75,2023-02-27,Land,,Open Account,FOB,USD
+EXP-PK-200401,INV-PK-100401,Balochistan Spices Co.,Sialkot,Sialkot Airport,Italy,Pharmaceuticals,Medicines (packaged),3004,14.83,3037,boxes,45038.71,2024-09-24,Sea,PK74282,LC (Letter of Credit),FOB,USD
+EXP-PK-200402,INV-PK-100402,PakTex Exporters Co.,Sialkot,Sialkot Airport,Bangladesh,Sports Goods,Football,9506,13.88,3684,pcs,51133.92,2023-02-10,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200403,INV-PK-100403,Lahore Leatherworks,Sialkot,Sialkot Airport,UAE,Agriculture,Mangoes (fresh),0804,2.84,18518,kg,52591.12,2023-12-30,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200404,INV-PK-100404,Karachi Seafood Ltd.,Faisalabad,Inland (Faisalabad Depot),UK,Tobacco,Processed Tobacco,2403,2.53,2353,kg,5953.09,2025-01-17,Sea,PK58967,Cash Against Documents,FOB,USD
+EXP-PK-200405,INV-PK-100405,Lahore Leatherworks,Multan,Multan Airport,Germany,Leather,Finished Leather,4107,49.32,419,sheets,20665.08,2023-11-19,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200406,INV-PK-100406,Lahore Leatherworks,Faisalabad,Inland (Faisalabad Depot),Afghanistan,Leather Goods,Footwear,6403,23.71,4605,pairs,109184.55,2024-12-31,Sea,PK97232,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200407,INV-PK-100407,Sialkot Sports Exports,Multan,Multan Airport,UAE,Leather,Finished Leather,4107,44.15,259,sheets,11434.85,2023-01-04,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200408,INV-PK-100408,Karachi Seafood Ltd.,Gwadar,Gwadar Port,Bangladesh,Sports Goods,Football,9506,18.56,2001,pcs,37138.56,2023-08-02,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200409,INV-PK-100409,Sindh Agro Exports,Sialkot,Sialkot Airport,Germany,Agriculture,Mangoes (fresh),0804,0.64,6770,kg,4332.8,2023-12-10,Land,,LC (Letter of Credit),CIF,USD
+EXP-PK-200410,INV-PK-100410,Punjab Pharma Exports,Karachi,Port Qasim,China,Sports Goods,Football,9506,24.48,33,pcs,807.84,2023-05-19,Air,,Open Account,FOB,USD
+EXP-PK-200411,INV-PK-100411,PakTex Exporters Co.,Karachi,Port Qasim,Italy,Leather Goods,Footwear,6403,46.68,1996,pairs,93173.28,2025-05-09,Sea,PK64266,Cash Against Documents,CIF,USD
+EXP-PK-200412,INV-PK-100412,Lahore Leatherworks,Hyderabad,Port Qasim,UK,Tobacco,Processed Tobacco,2403,2.92,18405,kg,53742.6,2025-09-08,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200413,INV-PK-100413,Punjab Pharma Exports,Lahore,Inland (Landi Kotal),USA,Agriculture,Rice (Basmati),1006,1.37,7004,kg,9595.48,2023-02-11,Air,,Open Account,FOB,USD
+EXP-PK-200414,INV-PK-100414,Sindh Agro Exports,Gwadar,Gwadar Port,UAE,Chemicals,Industrial Chemicals,2815,22.34,9099,kg,203271.66,2025-02-07,Sea,PK19830,LC (Letter of Credit),CIF,USD
+EXP-PK-200415,INV-PK-100415,Balochistan Spices Co.,Peshawar,Torkham Border (land),USA,Seafood,Shrimp (frozen),0306,5.02,9103,kg,45697.06,2023-12-04,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200416,INV-PK-100416,PakTex Exporters Co.,Lahore,Inland (Landi Kotal),Germany,Sports Goods,Football,9506,5.94,890,pcs,5286.6,2024-01-25,Air,,Open Account,CIF,USD
+EXP-PK-200417,INV-PK-100417,Sialkot Sports Exports,Sialkot,Sialkot Airport,UK,Textiles,Cotton Yarn,5205,4.39,210,bales,921.9,2025-03-15,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200418,INV-PK-100418,PakTex Exporters Co.,Gwadar,Gwadar Port,USA,Seafood,Shrimp (frozen),0306,11.23,7311,kg,82102.53,2023-06-29,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200419,INV-PK-100419,Sindh Agro Exports,Karachi,Karachi Port,UAE,Carpets,Handmade Carpets,5701,311.26,3164,pcs,984826.64,2024-08-20,Sea,PK72071,LC (Letter of Credit),CIF,USD
+EXP-PK-200420,INV-PK-100420,Gwadar Logistics Exports,Peshawar,Torkham Border (land),Italy,Chemicals,Industrial Chemicals,2815,1.18,13304,kg,15698.72,2024-06-26,Sea,PK94130,Cash Against Documents,FOB,USD
+EXP-PK-200421,INV-PK-100421,Lahore Leatherworks,Hyderabad,Port Qasim,Germany,Leather,Finished Leather,4107,13.01,480,sheets,6244.8,2025-07-01,Sea,PK44510,Cash Against Documents,CIF,USD
+EXP-PK-200422,INV-PK-100422,Sialkot Sports Exports,Sialkot,Sialkot Airport,Saudi Arabia,Spices,Chilies (dried),0904,1.74,8351,kg,14530.74,2023-05-07,Sea,PK97486,LC (Letter of Credit),FOB,USD
+EXP-PK-200423,INV-PK-100423,Lahore Leatherworks,Hyderabad,Port Qasim,Bangladesh,Sports Goods,Football,9506,4.39,4984,pcs,21879.76,2023-05-05,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200424,INV-PK-100424,Balochistan Spices Co.,Sialkot,Sialkot Airport,Italy,Agriculture,Rice (Basmati),1006,1.76,11948,kg,21028.48,2023-06-11,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200425,INV-PK-100425,Sindh Agro Exports,Peshawar,Torkham Border (land),UAE,Leather,Finished Leather,4107,8.02,375,sheets,3007.5,2024-03-09,Sea,PK26539,LC (Letter of Credit),CIF,USD
+EXP-PK-200426,INV-PK-100426,Sindh Agro Exports,Hyderabad,Port Qasim,China,Tobacco,Processed Tobacco,2403,1.44,17971,kg,25878.24,2023-10-30,Land,,Open Account,CIF,USD
+EXP-PK-200427,INV-PK-100427,Sindh Agro Exports,Lahore,Inland (Landi Kotal),Netherlands,Pharmaceuticals,Medicines (packaged),3004,5.92,961,boxes,5689.12,2025-03-24,Land,,Open Account,CIF,USD
+EXP-PK-200428,INV-PK-100428,Northern Fruits Exports,Peshawar,Torkham Border (land),USA,Industrial,Gloves (leather),4203,1.69,2365,pairs,3996.85,2025-05-09,Sea,PK64321,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200429,INV-PK-100429,Balochistan Spices Co.,Lahore,Inland (Landi Kotal),UK,Spices,Chilies (dried),0904,3.82,1407,kg,5374.74,2023-07-26,Air,,Open Account,CIF,USD
+EXP-PK-200430,INV-PK-100430,Sialkot Sports Exports,Hyderabad,Port Qasim,Italy,Spices,Chilies (dried),0904,4.88,9120,kg,44505.6,2025-08-26,Sea,PK32570,Open Account,CIF,USD
+EXP-PK-200431,INV-PK-100431,Karachi Seafood Ltd.,Hyderabad,Port Qasim,USA,Seafood,Shrimp (frozen),0306,7.72,8871,kg,68484.12,2024-11-09,Land,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200432,INV-PK-100432,Punjab Pharma Exports,Multan,Multan Airport,Germany,Textiles,Cotton Yarn,5205,3.69,280,bales,1033.2,2024-11-22,Air,,Open Account,CIF,USD
+EXP-PK-200433,INV-PK-100433,Punjab Pharma Exports,Lahore,Inland (Landi Kotal),China,Leather,Finished Leather,4107,11.99,91,sheets,1091.09,2024-09-07,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200434,INV-PK-100434,Sialkot Sports Exports,Hyderabad,Port Qasim,Bangladesh,Carpets,Handmade Carpets,5701,437.8,4731,pcs,2071231.8,2023-07-02,Sea,PK67896,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200435,INV-PK-100435,Punjab Pharma Exports,Gwadar,Gwadar Port,USA,Pharmaceuticals,Medicines (packaged),3004,9.96,1361,boxes,13555.56,2023-11-22,Sea,PK50779,Cash Against Documents,FOB,USD
+EXP-PK-200436,INV-PK-100436,Northern Fruits Exports,Karachi,Karachi Port,China,Chemicals,Industrial Chemicals,2815,19.6,8233,kg,161366.8,2024-02-16,Sea,PK42701,LC (Letter of Credit),CIF,USD
+EXP-PK-200437,INV-PK-100437,PakTex Exporters Co.,Gwadar,Gwadar Port,China,Agriculture,Rice (Basmati),1006,0.56,3207,kg,1795.92,2025-01-24,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200438,INV-PK-100438,PakTex Exporters Co.,Sialkot,Sialkot Airport,Germany,Surgical,Surgical Instruments,9031,146.03,3298,sets,481606.94,2025-07-02,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200439,INV-PK-100439,Lahore Leatherworks,Faisalabad,Inland (Faisalabad Depot),Saudi Arabia,Leather Goods,Footwear,6403,12.98,1117,pairs,14498.66,2023-07-05,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200440,INV-PK-100440,PakTex Exporters Co.,Faisalabad,Inland (Faisalabad Depot),Bangladesh,Industrial,Gloves (leather),4203,5.39,3362,pairs,18121.18,2024-03-14,Sea,PK94853,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200441,INV-PK-100441,Sialkot Sports Exports,Hyderabad,Port Qasim,Afghanistan,Textiles,Cotton Yarn,5205,0.94,52,bales,48.88,2023-01-19,Air,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200442,INV-PK-100442,Balochistan Spices Co.,Karachi,Karachi Port,Saudi Arabia,Spices,Chilies (dried),0904,5.0,3653,kg,18265.0,2024-09-17,Land,,Open Account,CIF,USD
+EXP-PK-200443,INV-PK-100443,Gwadar Logistics Exports,Gwadar,Gwadar Port,Italy,Agriculture,Rice (Basmati),1006,2.13,4839,kg,10307.07,2024-03-22,Air,,Open Account,CIF,USD
+EXP-PK-200444,INV-PK-100444,Balochistan Spices Co.,Lahore,Inland (Landi Kotal),USA,Pharmaceuticals,Medicines (packaged),3004,3.39,1223,boxes,4145.97,2025-02-05,Land,,Open Account,CIF,USD
+EXP-PK-200445,INV-PK-100445,Sindh Agro Exports,Peshawar,Torkham Border (land),UK,Agriculture,Mangoes (fresh),0804,2.31,17128,kg,39565.68,2024-07-20,Land,,Open Account,CIF,USD
+EXP-PK-200446,INV-PK-100446,Sialkot Sports Exports,Multan,Multan Airport,China,Leather,Finished Leather,4107,42.36,199,sheets,8429.64,2024-05-07,Sea,PK88647,Cash Against Documents,CIF,USD
+EXP-PK-200447,INV-PK-100447,Karachi Seafood Ltd.,Karachi,Port Qasim,Saudi Arabia,Agriculture,Rice (Basmati),1006,2.17,4179,kg,9068.43,2025-05-07,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200448,INV-PK-100448,Balochistan Spices Co.,Sialkot,Sialkot Airport,Germany,Leather Goods,Footwear,6403,42.25,4482,pairs,189364.5,2024-03-31,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200449,INV-PK-100449,Northern Fruits Exports,Multan,Multan Airport,UAE,Tobacco,Processed Tobacco,2403,0.56,1801,kg,1008.56,2024-01-06,Air,,LC (Letter of Credit),CIF,USD
+EXP-PK-200450,INV-PK-100450,Karachi Seafood Ltd.,Multan,Multan Airport,Afghanistan,Industrial,Gloves (leather),4203,4.95,142,pairs,702.9,2024-01-10,Land,,Open Account,FOB,USD
+EXP-PK-200451,INV-PK-100451,Faisalabad Textiles,Gwadar,Gwadar Port,China,Leather Goods,Footwear,6403,29.96,2919,pairs,87453.24,2024-09-20,Air,,Open Account,CIF,USD
+EXP-PK-200452,INV-PK-100452,Sialkot Sports Exports,Multan,Multan Airport,Italy,Tobacco,Processed Tobacco,2403,2.4,17864,kg,42873.6,2023-08-30,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200453,INV-PK-100453,Punjab Pharma Exports,Sialkot,Sialkot Airport,Afghanistan,Textiles,Bed Linen,6302,6.69,1715,pcs,11473.35,2025-02-20,Land,,Open Account,CIF,USD
+EXP-PK-200454,INV-PK-100454,PakTex Exporters Co.,Faisalabad,Inland (Faisalabad Depot),UAE,Sports Goods,Football,9506,9.26,1904,pcs,17631.04,2024-12-02,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200455,INV-PK-100455,Lahore Leatherworks,Faisalabad,Inland (Faisalabad Depot),UK,Surgical,Surgical Instruments,9031,122.16,1347,sets,164549.52,2024-11-12,Air,,Open Account,FOB,USD
+EXP-PK-200456,INV-PK-100456,PakTex Exporters Co.,Peshawar,Torkham Border (land),Saudi Arabia,Sports Goods,Football,9506,19.48,2052,pcs,39972.96,2023-12-12,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200457,INV-PK-100457,Sindh Agro Exports,Faisalabad,Inland (Faisalabad Depot),Bangladesh,Seafood,Shrimp (frozen),0306,7.97,8778,kg,69960.66,2025-05-29,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200458,INV-PK-100458,Gwadar Logistics Exports,Karachi,Karachi Port,Afghanistan,Sports Goods,Football,9506,10.25,4742,pcs,48605.5,2025-02-03,Sea,PK52233,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200459,INV-PK-100459,PakTex Exporters Co.,Sialkot,Sialkot Airport,China,Leather Goods,Footwear,6403,94.0,709,pairs,66646.0,2024-12-06,Air,,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200460,INV-PK-100460,Gwadar Logistics Exports,Multan,Multan Airport,UAE,Textiles,Bed Linen,6302,7.05,2442,pcs,17216.1,2023-04-04,Air,,Open Account,CIF,USD
+EXP-PK-200461,INV-PK-100461,Northern Fruits Exports,Gwadar,Gwadar Port,Netherlands,Chemicals,Industrial Chemicals,2815,26.92,16017,kg,431177.64,2023-10-02,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200462,INV-PK-100462,Faisalabad Textiles,Faisalabad,Inland (Faisalabad Depot),Netherlands,Textiles,Cotton Yarn,5205,3.86,12,bales,46.32,2024-04-12,Sea,PK27197,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200463,INV-PK-100463,Balochistan Spices Co.,Faisalabad,Inland (Faisalabad Depot),UK,Agriculture,Mangoes (fresh),0804,1.17,10878,kg,12727.26,2023-03-18,Air,,Open Account,FOB,USD
+EXP-PK-200464,INV-PK-100464,Balochistan Spices Co.,Karachi,Karachi Port,USA,Textiles,Cotton Yarn,5205,5.36,129,bales,691.44,2023-08-26,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200465,INV-PK-100465,Sindh Agro Exports,Multan,Multan Airport,Italy,Leather Goods,Footwear,6403,25.33,4176,pairs,105778.08,2023-11-10,Sea,PK99881,LC (Letter of Credit),CIF,USD
+EXP-PK-200466,INV-PK-100466,Gwadar Logistics Exports,Lahore,Inland (Landi Kotal),Afghanistan,Agriculture,Rice (Basmati),1006,2.96,10561,kg,31260.56,2023-10-08,Air,,LC (Letter of Credit),FOB,USD
+EXP-PK-200467,INV-PK-100467,Sialkot Sports Exports,Lahore,Inland (Landi Kotal),UK,Surgical,Surgical Instruments,9031,42.62,1368,sets,58304.16,2024-02-11,Air,,Open Account,FOB,USD
+EXP-PK-200468,INV-PK-100468,Lahore Leatherworks,Hyderabad,Port Qasim,Saudi Arabia,Leather,Finished Leather,4107,5.83,457,sheets,2664.31,2023-03-22,Land,,Cash Against Documents,FOB,USD
+EXP-PK-200469,INV-PK-100469,Punjab Pharma Exports,Gwadar,Gwadar Port,China,Textiles,Cotton Yarn,5205,1.65,288,bales,475.2,2023-01-27,Land,,LC (Letter of Credit),FOB,USD
+EXP-PK-200470,INV-PK-100470,Balochistan Spices Co.,Peshawar,Torkham Border (land),UAE,Textiles,Bed Linen,6302,2.77,2775,pcs,7686.75,2023-06-03,Land,,LC (Letter of Credit),CIF,USD
+EXP-PK-200471,INV-PK-100471,Faisalabad Textiles,Peshawar,Torkham Border (land),Saudi Arabia,Agriculture,Rice (Basmati),1006,2.13,16611,kg,35381.43,2025-08-08,Sea,PK23082,TT (Telegraphic Transfer),FOB,USD
+EXP-PK-200472,INV-PK-100472,Sialkot Sports Exports,Gwadar,Gwadar Port,Germany,Seafood,Shrimp (frozen),0306,4.86,318,kg,1545.48,2023-08-26,Sea,PK16014,LC (Letter of Credit),FOB,USD
+EXP-PK-200473,INV-PK-100473,Karachi Seafood Ltd.,Gwadar,Gwadar Port,Germany,Chemicals,Industrial Chemicals,2815,4.8,18010,kg,86448.0,2025-06-15,Land,,Open Account,FOB,USD
+EXP-PK-200474,INV-PK-100474,Lahore Leatherworks,Gwadar,Gwadar Port,UAE,Textiles,Bed Linen,6302,7.09,2991,pcs,21206.19,2025-03-31,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200475,INV-PK-100475,Gwadar Logistics Exports,Peshawar,Torkham Border (land),Netherlands,Carpets,Handmade Carpets,5701,320.23,3328,pcs,1065725.44,2023-12-08,Sea,PK27368,LC (Letter of Credit),FOB,USD
+EXP-PK-200476,INV-PK-100476,Sindh Agro Exports,Hyderabad,Port Qasim,Bangladesh,Surgical,Surgical Instruments,9031,43.32,4572,sets,198059.04,2025-06-16,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200477,INV-PK-100477,Balochistan Spices Co.,Karachi,Karachi Port,Italy,Chemicals,Industrial Chemicals,2815,13.03,7724,kg,100643.72,2025-09-26,Sea,PK63907,Cash Against Documents,FOB,USD
+EXP-PK-200478,INV-PK-100478,Sindh Agro Exports,Multan,Multan Airport,Germany,Textiles,Cotton Yarn,5205,4.54,24,bales,108.96,2024-04-03,Land,,Open Account,FOB,USD
+EXP-PK-200479,INV-PK-100479,Gwadar Logistics Exports,Sialkot,Sialkot Airport,Italy,Agriculture,Mangoes (fresh),0804,0.92,14786,kg,13603.12,2025-02-27,Sea,PK83183,LC (Letter of Credit),FOB,USD
+EXP-PK-200480,INV-PK-100480,Karachi Seafood Ltd.,Peshawar,Torkham Border (land),Italy,Tobacco,Processed Tobacco,2403,0.87,12102,kg,10528.74,2023-12-05,Sea,PK74441,Open Account,FOB,USD
+EXP-PK-200481,INV-PK-100481,Lahore Leatherworks,Multan,Multan Airport,USA,Pharmaceuticals,Medicines (packaged),3004,6.89,1952,boxes,13449.28,2024-04-01,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200482,INV-PK-100482,Faisalabad Textiles,Lahore,Inland (Landi Kotal),Italy,Surgical,Surgical Instruments,9031,64.85,1784,sets,115692.4,2025-07-06,Air,,Cash Against Documents,CIF,USD
+EXP-PK-200483,INV-PK-100483,Lahore Leatherworks,Lahore,Inland (Landi Kotal),Italy,Leather Goods,Footwear,6403,89.1,1492,pairs,132937.2,2023-02-06,Sea,PK62879,Cash Against Documents,FOB,USD
+EXP-PK-200484,INV-PK-100484,Northern Fruits Exports,Karachi,Karachi Port,Bangladesh,Spices,Chilies (dried),0904,3.83,9573,kg,36664.59,2024-09-15,Land,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200485,INV-PK-100485,Lahore Leatherworks,Gwadar,Gwadar Port,USA,Tobacco,Processed Tobacco,2403,3.49,18742,kg,65409.58,2024-04-01,Air,,Open Account,CIF,USD
+EXP-PK-200486,INV-PK-100486,Lahore Leatherworks,Peshawar,Torkham Border (land),UK,Textiles,Bed Linen,6302,6.07,1082,pcs,6567.74,2024-03-30,Sea,PK54742,Open Account,CIF,USD
+EXP-PK-200487,INV-PK-100487,Northern Fruits Exports,Gwadar,Gwadar Port,UK,Textiles,Cotton Yarn,5205,1.02,131,bales,133.62,2023-12-03,Air,,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200488,INV-PK-100488,Sindh Agro Exports,Multan,Multan Airport,Bangladesh,Sports Goods,Football,9506,18.66,266,pcs,4963.56,2024-01-20,Sea,PK61497,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200489,INV-PK-100489,Faisalabad Textiles,Gwadar,Gwadar Port,UK,Industrial,Gloves (leather),4203,10.43,2988,pairs,31164.84,2025-04-28,Sea,PK93000,LC (Letter of Credit),CIF,USD
+EXP-PK-200490,INV-PK-100490,Punjab Pharma Exports,Faisalabad,Inland (Faisalabad Depot),Italy,Textiles,Cotton Yarn,5205,3.21,385,bales,1235.85,2023-04-10,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200491,INV-PK-100491,Northern Fruits Exports,Faisalabad,Inland (Faisalabad Depot),Bangladesh,Leather,Finished Leather,4107,9.8,38,sheets,372.4,2023-09-20,Sea,PK60778,Open Account,CIF,USD
+EXP-PK-200492,INV-PK-100492,Gwadar Logistics Exports,Sialkot,Sialkot Airport,Saudi Arabia,Seafood,Shrimp (frozen),0306,9.55,9960,kg,95118.0,2024-12-03,Air,,Cash Against Documents,FOB,USD
+EXP-PK-200493,INV-PK-100493,Karachi Seafood Ltd.,Hyderabad,Port Qasim,Bangladesh,Leather Goods,Footwear,6403,85.72,2179,pairs,186783.88,2024-09-04,Land,,Open Account,FOB,USD
+EXP-PK-200494,INV-PK-100494,Faisalabad Textiles,Sialkot,Sialkot Airport,Bangladesh,Leather Goods,Footwear,6403,37.1,4097,pairs,151998.7,2024-08-18,Land,,Open Account,FOB,USD
+EXP-PK-200495,INV-PK-100495,Karachi Seafood Ltd.,Gwadar,Gwadar Port,UK,Industrial,Gloves (leather),4203,16.19,3476,pairs,56276.44,2024-12-22,Land,,Cash Against Documents,CIF,USD
+EXP-PK-200496,INV-PK-100496,Northern Fruits Exports,Multan,Multan Airport,Netherlands,Industrial,Gloves (leather),4203,6.17,2955,pairs,18232.35,2023-01-27,Land,,LC (Letter of Credit),FOB,USD
+EXP-PK-200497,INV-PK-100497,Gwadar Logistics Exports,Faisalabad,Inland (Faisalabad Depot),USA,Carpets,Handmade Carpets,5701,212.44,466,pcs,98997.04,2023-04-26,Sea,PK44993,TT (Telegraphic Transfer),CIF,USD
+EXP-PK-200498,INV-PK-100498,Sialkot Sports Exports,Faisalabad,Inland (Faisalabad Depot),USA,Leather Goods,Footwear,6403,110.9,692,pairs,76742.8,2024-08-27,Sea,PK80932,LC (Letter of Credit),CIF,USD
+EXP-PK-200499,INV-PK-100499,Punjab Pharma Exports,Lahore,Inland (Landi Kotal),Bangladesh,Tobacco,Processed Tobacco,2403,4.78,8975,kg,42900.5,2024-04-04,Land,,Cash Against Documents,FOB,USD
